@@ -1,23 +1,16 @@
-title           : "어화둥둥"
-title_separator : "-"
-description     : "월출봉에 달 뜨거든 날 불러주오"
-url             : "https://reddiana.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl         : "" # the subpath of your site, e.g. "/blog"
+theme: jekyll-theme-minimal
+
+title: "어화둥둥"
+title_separator: "-"
+description: "월출봉에 달 뜨거든 날 불러주오"
+url: "https://reddiana.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "" # the subpath of your site, e.g. "/blog"
+
+author:
+  name: "서세일"
+  facebook: "reddiana@gmail.com"
+  github: "reddiana"
 
 kramdown:
   math_engine: mathjax
   syntax_highlighter: rouge
-
-author:
-  name             : "서세일"
-  facebook         : "reddiana@gmail.com"
-  github           : "reddiana"
-
-plugins:
-  - jekyll-mentions
-  - jemoji
-  - jekyll-redirect-from
-  - jekyll-sitemap
-  - jekyll-feed  
-
-theme: jekyll-theme-minimal

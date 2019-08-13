@@ -1,4 +1,5 @@
-remote_theme : mmistakes/minimal-mistakes
+theme: jekyll-theme-minimal
+# remote_theme : mmistakes/minimal-mistakes
 
 title: "어화둥둥"
 title_separator: "-"

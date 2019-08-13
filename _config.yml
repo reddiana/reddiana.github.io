@@ -20,4 +20,4 @@ plugins:
   - jekyll-sitemap
   - jekyll-feed  
 
-theme: jekyll-theme-slate
+theme: jekyll-theme-minimal

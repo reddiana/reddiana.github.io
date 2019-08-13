@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+remote_theme : mmistakes/minimal-mistakes
 
 title: "어화둥둥"
 title_separator: "-"
@@ -11,6 +11,6 @@ author:
   facebook: "reddiana@gmail.com"
   github: "reddiana"
 
-kramdown:
-  math_engine: mathjax
-  syntax_highlighter: rouge
+# kramdown:
+#   math_engine: mathjax
+#   syntax_highlighter: rouge

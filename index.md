@@ -1,5 +1,6 @@
 ---
-title: 안녕 안녕
+layout: home
+author_profile: true
 ---
 
 테스트입니다

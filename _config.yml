@@ -14,3 +14,5 @@ author:
 # kramdown:
 #   math_engine: mathjax
 #   syntax_highlighter: rouge
+
+theme: jekyll-theme-minimal

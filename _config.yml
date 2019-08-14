@@ -2,7 +2,6 @@ theme: jekyll-theme-minimal
 # remote_theme : mmistakes/minimal-mistakes
 
 title: "어화둥둥"
-title_separator: "-"
 description: "월출봉에 달 뜨거든 날 불러주오"
 url: "https://reddiana.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"

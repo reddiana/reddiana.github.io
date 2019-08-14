@@ -1,16 +1,47 @@
-theme: jekyll-theme-minimal
-# remote_theme : mmistakes/minimal-mistakes
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-title: "어화둥둥"
-description: "월출봉에 달 뜨거든 날 불러주오"
-url: "https://reddiana.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl: "" # the subpath of your site, e.g. "/blog"
+paginate: 10 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+disqus: reddiana
+google_analytics:
+  id:
+title: 월출봉은 불암산
+analytics.js: #ga('send', 'pageview', '/search_results.php?q=keyword');
 
-# author:
-#   name: "서세일"
-#   facebook: "reddiana@gmail.com"
-#   github: "reddiana"
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      title: 월출봉은 불암산
 
-# kramdown:
-#   math_engine: mathjax
-#   syntax_highlighter: rouge
+description: 온달장군 창끝 같은 반달이 떴다
+author:
+  name: 바쏠로뮤
+  email: reddiana@gmail.com
+  github: reddiana
+  twitter:
+  pinterest:
+  linkedin:
+  bio: 월출봉에 달 뜨거든 날 불러주오
+  email_md5: 
+
+rss_path: feed.xml
+categories_path: categories.html
+tags_path: tags.html
+
+# set it as url of an image
+# sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+
+BASE_PATH:
+
+plugins:
+  - jekyll-paginate
+
+# include:
+#  - _site
+
+# theme: jekyll-theme-slate

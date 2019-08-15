@@ -29,17 +29,16 @@ disqus: reddiana
 google_analytics:
   id:
 
-sidebar_background_image: https://i.imgur.com/RSG6X2o.jpg
+sidebar_background_image: https://i.imgur.com/kR4vYZT.jpg
 
 permalink: /:categories-:year-:month-:day-:title # /:categories/:year/:month/:day/:title:output_ext
+BASE_PATH: /tech
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
 analytics.js: #ga('send', 'pageview', '/search_results.php?q=keyword');
-
-BASE_PATH:
 
 plugins:
   - jekyll-paginate

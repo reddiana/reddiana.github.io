@@ -1,12 +1,13 @@
 
 title: 월출봉은 불암산
+path: "/tech/"
 
-defaults:
-  -
-    scope:
-      path: "/tech/" # empty string for all files
-    values:
-      title: 어화둥둥
+# defaults:
+#   -
+#     scope:
+#       path: "/tech/" # empty string for all files
+#     values:
+#       title: 어화둥둥
 
 description: 온달장군 창끝 같은 반달이 떴다
 author:
@@ -28,7 +29,7 @@ disqus: reddiana
 google_analytics:
   id:
 
-sidebar_background_image: https://i.imgur.com/ZnlWLeY.jpg
+sidebar_background_image: https://i.imgur.com/NouIIKI.png
 
 rss_path: feed.xml
 categories_path: categories.html

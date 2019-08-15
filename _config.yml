@@ -33,6 +33,7 @@ disqus: reddiana
 google_analytics:
   id:
 
+url: "https://reddiana.github.io"
 permalink: /:categories-:title # /:categories/:year/:month/:day/:title:output_ext
 # BASE_PATH: /tech
 
@@ -44,6 +45,7 @@ analytics.js: #ga('send', 'pageview', '/search_results.php?q=keyword');
 
 plugins:
   - jekyll-paginate
+  - jekyll-sitemap
 
 # include:
 #  - _site

@@ -5,7 +5,8 @@ defaults:
     scope:
       path: "" # empty string for all files
     values:
-      title: 어화둥둥
+      layout: "post"
+      use_math: true
 
 description: 어화둥둥
 author:

@@ -1,22 +1,12 @@
-# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings
 
-paginate: 20 # pagination based on number of posts
-paginate_path: "page:num"
-exclude: ["README.md"] # files to exclude
-highlighter: rouge
-markdown: kramdown
-disqus: reddiana
-google_analytics:
-  id:
 title: 월출봉은 불암산
-analytics.js: #ga('send', 'pageview', '/search_results.php?q=keyword');
 
 defaults:
   -
     scope:
-      path: "" # empty string for all files
+      path: "/tech/" # empty string for all files
     values:
-      title: 월출봉은 불암산
+      title: 어화둥둥
 
 description: 온달장군 창끝 같은 반달이 떴다
 author:
@@ -29,14 +19,24 @@ author:
   bio: 월출봉에 달 뜨거든 날 불러주오
   email_md5: 
 
+paginate: 20 # pagination based on number of posts
+paginate_path: "page:num"
+exclude: ["README.md"] # files to exclude
+highlighter: rouge
+markdown: kramdown
+disqus: reddiana
+google_analytics:
+  id:
+
+sidebar_background_image: https://i.imgur.com/ZnlWLeY.jpg
+
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
 
 permalink: /:title:output_ext
 
-# set it as url of an image
-sidebar_background_image: https://www.dropbox.com/s/g9h23zrycedxtk5/sky.png?raw=1
+analytics.js: #ga('send', 'pageview', '/search_results.php?q=keyword');
 
 BASE_PATH:
 
@@ -47,3 +47,4 @@ plugins:
 #  - _site
 
 # theme: jekyll-theme-slate
+# visit https://github.com/mojombo/jekyll/wiki/Configuration for more settings

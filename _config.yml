@@ -1,6 +1,6 @@
 
 title: 월출봉은 불암산
-path: "/tech/"
+baseurl: "/tech/"
 
 # defaults:
 #   -
@@ -29,7 +29,7 @@ disqus: reddiana
 google_analytics:
   id:
 
-sidebar_background_image: https://i.imgur.com/NouIIKI.png
+sidebar_background_image: https://i.imgur.com/y8s5wUG.jpg
 
 rss_path: feed.xml
 categories_path: categories.html

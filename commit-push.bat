@@ -1,6 +1,6 @@
 git pull 
 git status
-git commit -a -m "ìœ í›„~"
+git commit -a -m "À¯ÈÄ~"
 git push
 
 pause

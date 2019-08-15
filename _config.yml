@@ -1,6 +1,6 @@
-
 title: 월출봉은 불암산
-baseurl: "/tech/"
+url: "https://reddiana.github.io/"
+baseurl: "/tech"
 
 # defaults:
 #   -
@@ -9,7 +9,7 @@ baseurl: "/tech/"
 #     values:
 #       title: 어화둥둥
 
-description: 온달장군 창끝 같은 반달이 떴다
+description: 어화둥둥
 author:
   name: 바쏠로뮤
   email: reddiana@gmail.com
@@ -29,13 +29,13 @@ disqus: reddiana
 google_analytics:
   id:
 
-sidebar_background_image: https://i.imgur.com/y8s5wUG.jpg
+sidebar_background_image: https://i.imgur.com/RSG6X2o.jpg
+
+permalink: /:title:output_ext
 
 rss_path: feed.xml
 categories_path: categories.html
 tags_path: tags.html
-
-permalink: /:title:output_ext
 
 analytics.js: #ga('send', 'pageview', '/search_results.php?q=keyword');
 

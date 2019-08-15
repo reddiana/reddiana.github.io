@@ -31,7 +31,7 @@ google_analytics:
 
 sidebar_background_image: https://i.imgur.com/RSG6X2o.jpg
 
-permalink: /:title:output_ext
+permalink: /:categories-:year-:month-:day-:title # /:categories/:year/:month/:day/:title:output_ext
 
 rss_path: feed.xml
 categories_path: categories.html

@@ -20,6 +20,9 @@ author:
   bio: 월출봉에 달 뜨거든 날 불러주오
   email_md5: 
 
+# 무료사진 사이트 https://pixabay.com/ko    
+sidebar_background_image: https://i.imgur.com/kR4vYZT.jpg 
+
 paginate: 20 # pagination based on number of posts
 paginate_path: "page:num"
 exclude: ["README.md"] # files to exclude
@@ -29,10 +32,8 @@ disqus: reddiana
 google_analytics:
   id:
 
-sidebar_background_image: https://i.imgur.com/kR4vYZT.jpg
-
 permalink: /:categories-:year-:month-:day-:title # /:categories/:year/:month/:day/:title:output_ext
-BASE_PATH: /tech
+# BASE_PATH: /tech
 
 rss_path: feed.xml
 categories_path: categories.html

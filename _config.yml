@@ -33,7 +33,7 @@ disqus: reddiana
 google_analytics:
   id:
 
-permalink: /:categories_:title # /:categories/:year/:month/:day/:title:output_ext
+permalink: /:__categories__:title # /:categories/:year/:month/:day/:title:output_ext
 # BASE_PATH: /tech
 
 rss_path: feed.xml

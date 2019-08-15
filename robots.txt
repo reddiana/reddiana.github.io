@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reddiana.github.io/sitemap.xml

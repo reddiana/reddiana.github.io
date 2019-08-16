@@ -8,6 +8,14 @@
 		{% endif %}
 		<meta name="author" content="{{ site.author.name }}">
 
+		<!-- 페이스북에 예쁘게 링크걸고 싶었다 -->
+		{% if page.header-img %}
+		<meta property="og:image" content="{{ site.url }}/{{ page.header-img }}" />
+		{% endif %}
+		{% if page.subtitle %}
+		<meta property="og:description" content="{{ page.subtitle }}" />
+		{% endif %}
+		
 		<!-- Enable responsive viewport -->
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 

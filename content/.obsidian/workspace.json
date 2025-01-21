@@ -8,30 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d1bb2fb484504097",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "asset/PaulMcCarthy-Tree.png"
-              },
-              "icon": "lucide-image",
-              "title": "PaulMcCarthy-Tree"
-            }
-          },
-          {
             "id": "10150dd8d8e6151b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전산/애자일.md",
-                "mode": "source",
+                "file": "Dataview/최근 변경.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "애자일"
+              "title": "최근 변경"
             }
           }
         ]
@@ -54,10 +42,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asset/PaulMcCarthy-Tree.png"
+                "file": "Dataview/최근 변경.md"
               },
               "icon": "lucide-list",
-              "title": "PaulMcCarthy-Tree 개요"
+              "title": "최근 변경 개요"
             }
           },
           {
@@ -66,7 +54,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "asset/PaulMcCarthy-Tree.png",
+                "file": "Dataview/최근 변경.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -94,7 +82,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "PaulMcCarthy-Tree 그래프"
+              "title": "최근 변경 그래프"
             }
           },
           {
@@ -103,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "asset/PaulMcCarthy-Tree.png",
+                "file": "Dataview/최근 변경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,11 +101,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "PaulMcCarthy-Tree의 백링크"
+              "title": "최근 변경의 백링크"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       },
       {
         "id": "99d027a85074bb90",
@@ -175,12 +163,23 @@
               "icon": "lucide-search",
               "title": "검색"
             }
+          },
+          {
+            "id": "69a2ee2eab6d985d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 207.50260543823242
+    "width": 220.50260543823242
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -202,16 +201,6 @@
               },
               "icon": "lucide-archive",
               "title": "All properties"
-            }
-          },
-          {
-            "id": "69a2ee2eab6d985d",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
             }
           },
           {
@@ -245,12 +234,12 @@
               "title": "나가는 링크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -266,23 +255,26 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d1bb2fb484504097",
+  "active": "69a2ee2eab6d985d",
   "lastOpenFiles": [
+    "생각/대한민국 후진성.md",
+    "전산/애자일.md",
+    "생각/현대미술.md",
+    "asset/PaulMcCarthy-Tree.png",
     "asset/Pasted image 20250118191734.png",
     "asset/Pasted image 20241229141217.png",
     "asset/Pasted image 20241229111841.png",
     "생각/대놓고 거짓말.md",
     "asset/뻔뻔한 국짐당 표결 참여도 안 해 놓고.png",
     "asset/not_iteration.png",
-    "아무말.md",
+    "생각/아무말.md",
     "asset/윤석열 - 잘했든 잘못했든 국민 앞에 나서겠다.png",
     "Dataview/최근 변경.md",
-    "Cargo Cult.md",
-    "전산/애자일.md",
+    "생각/Cargo Cult.md",
     "전산/개발자 푸념.md",
-    "파킨슨의 법칙.md",
+    "생각/파킨슨의 법칙.md",
     "templates/Frontmatter template.md",
-    "근묵자흑.md",
+    "생각/근묵자흑.md",
     "생각/언론.md",
     "asset/Pasted image 20250118123452.png",
     "전산/Tip/Spring Boot Application Properties.md",
@@ -292,18 +284,15 @@
     "생각/리더십.md",
     "생각/로봇.md",
     "전산/인공지능.md",
-    "파렴치.md",
+    "생각/파렴치.md",
     "asset/Pasted image 20250110233811.png",
     "생각/거짓말.md",
     "생각/궤변.md",
     "asset/평화적계엄.png",
-    "asset/Pasted image 20250109162923.png",
-    "asset/조갑제도 아니라는 부정선거.png",
     "생각/문명.md",
     "생각/사회적합의.md",
     "생각/내셔널리즘.md",
     "전산/Test.md",
-    "전산/공부/유즈케이스.md",
     "전산/Project",
     "전산/공부",
     "전산",

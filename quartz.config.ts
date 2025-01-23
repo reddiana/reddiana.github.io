@@ -17,7 +17,7 @@ const config: QuartzConfig = {
     },
     locale: "en-US",
     baseUrl: "reddiana.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian"],
+    ignorePatterns: ["private", "templates", ".obsidian", "Dataview", "Excalidraw"],
     defaultDateType: "created", // "modified",
     generateSocialImages: false,
     theme: {

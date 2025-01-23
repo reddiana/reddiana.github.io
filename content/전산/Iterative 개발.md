@@ -39,9 +39,9 @@ Sprint는 Scrum의 큰 특징 중 하나지만, 내가 방법론 담당자였을
 계속 재개발한다. `Iterative` 개발에서 재개발은 금기도 아니고 악은 더더욱 아니며 결코 실패가 아니다.
 `Incremental` 개발과 `Iterative` 개발은 사용자 스토리부터 달라질 것이다
 
-https://brunch.co.kr/@lklab2013/113
+%% https://brunch.co.kr/@lklab2013/113 %%
 
-(작성중)
+#작성중 
 
 ![[not_iteration.png]]
 

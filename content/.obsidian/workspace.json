@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/최근 변경.md",
-                "mode": "preview",
+                "file": "COSMOS.md",
+                "mode": "source",
                 "backlinks": true,
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "최근 변경"
+              "title": "COSMOS"
             }
           }
         ]
@@ -42,10 +42,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/최근 변경.md"
+                "file": "COSMOS.md"
               },
               "icon": "lucide-list",
-              "title": "최근 변경 개요"
+              "title": "COSMOS 개요"
             }
           },
           {
@@ -54,7 +54,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "생각/사회진화론.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -82,7 +82,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "최근 변경 그래프"
+              "title": "사회진화론 그래프"
             }
           },
           {
@@ -91,7 +91,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "생각/사회진화론.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -101,11 +101,10 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "최근 변경의 백링크"
+              "title": "사회진화론의 백링크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "99d027a85074bb90",
@@ -153,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "전산/",
+                "query": "애자일",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -255,10 +254,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "69a2ee2eab6d985d",
+  "active": "10150dd8d8e6151b",
   "lastOpenFiles": [
-    "생각/대한민국 후진성.md",
+    "asset/CosmosAPersonalVoyage_archive.torrent",
+    "CosmosAPersonalVoyage_archive.torrent.md",
+    "COSMOS.md",
+    "생각/사회진화론.md",
+    "asset/Cosmos_itemimage.jpg",
+    "asset/CosmosAPersonalVoyage한국어자막.zip",
+    "생각/Zettelkasten.md",
+    "전산/Iterative 개발.md",
     "전산/애자일.md",
+    "전산/공부/유즈케이스.md",
+    "Dataview/최근 변경.md",
+    "templates/YYYY.MMDD.HHmm.ss.md",
+    "templates/Frontmatter template.md",
+    "생각/Cargo Cult.md",
+    "생각/대한민국 후진성.md",
     "생각/현대미술.md",
     "asset/PaulMcCarthy-Tree.png",
     "asset/Pasted image 20250118191734.png",
@@ -269,11 +281,8 @@
     "asset/not_iteration.png",
     "생각/아무말.md",
     "asset/윤석열 - 잘했든 잘못했든 국민 앞에 나서겠다.png",
-    "Dataview/최근 변경.md",
-    "생각/Cargo Cult.md",
     "전산/개발자 푸념.md",
     "생각/파킨슨의 법칙.md",
-    "templates/Frontmatter template.md",
     "생각/근묵자흑.md",
     "생각/언론.md",
     "asset/Pasted image 20250118123452.png",
@@ -283,16 +292,7 @@
     "생각/몽골제국.md",
     "생각/리더십.md",
     "생각/로봇.md",
-    "전산/인공지능.md",
-    "생각/파렴치.md",
     "asset/Pasted image 20250110233811.png",
-    "생각/거짓말.md",
-    "생각/궤변.md",
-    "asset/평화적계엄.png",
-    "생각/문명.md",
-    "생각/사회적합의.md",
-    "생각/내셔널리즘.md",
-    "전산/Test.md",
     "전산/Project",
     "전산/공부",
     "전산",
@@ -301,8 +301,6 @@
     "asset/Franz_Kafka,_1923.jpg.crdownload",
     "Book & Video Journal/Franz Kafka.md~",
     "Kadam/Kadam_Concept.drawio",
-    "Kadam/Use Case",
-    "Kadam",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

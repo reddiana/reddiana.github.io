@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "COSMOS.md",
+                "file": "Dataview/최근 변경.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "COSMOS"
+              "title": "최근 변경"
             }
           }
         ]
@@ -42,10 +42,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "COSMOS.md"
+                "file": "Dataview/최근 변경.md"
               },
               "icon": "lucide-list",
-              "title": "COSMOS 개요"
+              "title": "최근 변경 개요"
             }
           },
           {
@@ -254,11 +254,12 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "10150dd8d8e6151b",
+  "active": "69a2ee2eab6d985d",
   "lastOpenFiles": [
-    "asset/CosmosAPersonalVoyage_archive.torrent",
     "CosmosAPersonalVoyage_archive.torrent.md",
-    "COSMOS.md",
+    "Dataview/최근 변경.md",
+    "책, 영상 Journal/COSMOS.md",
+    "asset/CosmosAPersonalVoyage_archive.torrent",
     "생각/사회진화론.md",
     "asset/Cosmos_itemimage.jpg",
     "asset/CosmosAPersonalVoyage한국어자막.zip",
@@ -266,7 +267,6 @@
     "전산/Iterative 개발.md",
     "전산/애자일.md",
     "전산/공부/유즈케이스.md",
-    "Dataview/최근 변경.md",
     "templates/YYYY.MMDD.HHmm.ss.md",
     "templates/Frontmatter template.md",
     "생각/Cargo Cult.md",

@@ -10,8 +10,3 @@ aliases:
 - [Cosmos: A Personal Voyage (with Carl Sagan) : KCET : Free Download, Borrow, and Streaming : Internet Archive](https://archive.org/details/CosmosAPersonalVoyage)
 - [Torrent](https://archive.org/download/CosmosAPersonalVoyage/CosmosAPersonalVoyage_archive.torrent)
 - [한국어 자막](CosmosAPersonalVoyage한국어자막.zip)
-
-
-
-
-

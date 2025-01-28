@@ -4,17 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "63b8b8a1fe11c5ca",
+        "id": "8af138fa4869eccf",
         "type": "tabs",
         "children": [
           {
-            "id": "b6c6df3fd422aa2f",
+            "id": "6f50ce9ee43c13c7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "mode": "preview",
+                "backlinks": true,
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "새 탭"
+              "title": "최근 변경"
             }
           }
         ]
@@ -42,14 +47,32 @@
             }
           },
           {
-            "id": "cf7387be49b3c314",
+            "id": "73b7709bc0f00c7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "bf0817875c20b345",
             "type": "leaf",
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "전산/인공지능.md",
+                "file": "Dataview/최근 변경.md",
                 "options": {
-                  "collapse-filter": true,
+                  "collapse-filter": false,
                   "search": "",
                   "localJumps": 2,
                   "localBacklinks": true,
@@ -67,37 +90,19 @@
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
                   "centerStrength": 1,
-                  "repelStrength": 16.7050223365372,
+                  "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.7545958428437243,
+                  "scale": 0.5694148860370305,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "인공지능 그래프"
-            }
-          },
-          {
-            "id": "73b7709bc0f00c7c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "전산/인공지능.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "인공지능의 백링크"
+              "title": "최근 변경 그래프"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "99d027a85074bb90",
@@ -160,7 +165,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 278.5026054382324,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -247,15 +253,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "b6c6df3fd422aa2f",
+  "active": "6f50ce9ee43c13c7",
   "lastOpenFiles": [
+    "책, 영상 Journal/테무진 to the 칸 - 홍대선.md",
+    "생각/몽골제국.md",
+    "Dataview/최근 변경.md",
+    "생각/권력.md",
+    "삼권분립.md",
+    "생각/사회적합의.md",
+    "생각/칭기스칸.md",
+    "생각/토너대가리.md",
+    "생각/Bean Counter.md",
+    "생각/신뢰.md",
+    "법률.md",
+    "생각/기업권력.md",
+    "생각/반독점법.md",
     "생각/거란문자.md",
     "asset/북방민족_문자창제_시기.png",
     "asset/제_문자의_서사방식_비교.png",
     "asset/거란소자_한글_철자방식_단순비교.png",
-    "Dataview/최근 변경.md",
-    "생각/칭기스칸.md",
-    "생각/신뢰.md",
     "전산/애자일.md",
     "생각/완전평면 브라운관 모니터.md",
     "templates/1. Frontmatter template.md",
@@ -268,15 +284,6 @@
     "생각/권리장전.md",
     "생각/경쟁 제일주의.md",
     "전산/Iterative 개발.md",
-    "전산/코드리뷰.md",
-    "생각/일본.md",
-    "전산/Tip/예쁜 프롬프트.md",
-    "templates/3. Facebook 포스트 Link.md",
-    "templates/2. Timestamp as a Permalink.md",
-    "책, 영상 Journal/테무진 to the 칸 - 홍대선.md",
-    "생각/클리엔테스.md",
-    "전산/인공지능.md",
-    "생각/노예.md",
     "asset/CosmosAPersonalVoyage_archive.torrent",
     "asset/Cosmos_itemimage.jpg",
     "asset/CosmosAPersonalVoyage한국어자막.zip",

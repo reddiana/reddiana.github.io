@@ -31,4 +31,4 @@ date: 2022-02-27
 ## 연관
 - [[Bean Counter|Bean Counter]]
 
-[Facebook 포스트](https://www.facebook.com/share/19qY3gPJpM/)
+[Facebook 포스트](https://www.facebook.com/share/p/15vRerbinG/)

@@ -4,41 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "b664b483e3548a11",
+        "id": "63b8b8a1fe11c5ca",
         "type": "tabs",
         "children": [
           {
-            "id": "2c83c7ba51976ec5",
+            "id": "b6c6df3fd422aa2f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataview/최근 변경.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "최근 변경"
-            }
-          },
-          {
-            "id": "ed6ed5047e60ca03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "전산/코드리뷰.md",
-                "mode": "preview",
-                "backlinks": true,
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "코드리뷰"
+              "title": "새 탭"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,11 +36,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "전산/코드리뷰.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "코드리뷰 개요"
+              "title": "개요"
             }
           },
           {
@@ -70,7 +47,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "생각/사회진화론.md",
+                "file": "전산/인공지능.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -98,7 +75,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "사회진화론 그래프"
+              "title": "인공지능 그래프"
             }
           },
           {
@@ -107,7 +84,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "생각/사회진화론.md",
+                "file": "전산/인공지능.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +94,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "사회진화론의 백링크"
+              "title": "인공지능의 백링크"
             }
           }
         ]
@@ -125,7 +102,7 @@
       {
         "id": "99d027a85074bb90",
         "type": "tabs",
-        "dimension": 68.0371352785146,
+        "dimension": 68.03713527851458,
         "children": [
           {
             "id": "847f9bd18de11b3a",
@@ -231,12 +208,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "전산/코드리뷰.md",
+                "file": "전산/인공지능.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "코드리뷰의 나가는 링크"
+              "title": "인공지능의 나가는 링크"
             }
           },
           {
@@ -270,34 +247,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed6ed5047e60ca03",
+  "active": "b6c6df3fd422aa2f",
   "lastOpenFiles": [
+    "생각/거란문자.md",
+    "asset/북방민족_문자창제_시기.png",
+    "asset/제_문자의_서사방식_비교.png",
+    "asset/거란소자_한글_철자방식_단순비교.png",
     "Dataview/최근 변경.md",
-    "생각/반독점법.md",
-    "생각/트롤리 딜레마.md",
-    "책, 영상 Journal/열국지.md",
-    "생각/토너대가리.md",
-    "생각/봉창.md",
-    "생각/리더십.md",
-    "templates/Frontmatter template.md",
-    "생각/기업권력.md",
-    "책, 영상 Journal/빅니스.md",
-    "생각/독과점.md",
-    "생각/민영화.md",
-    "templates/Facebook 포스트.md",
-    "templates/YYYY.MMDD.HHmm.ss.md",
-    "책, 영상 Journal/독과점.md",
-    "생각/Boeing.md",
+    "생각/칭기스칸.md",
+    "생각/신뢰.md",
     "전산/애자일.md",
-    "전산/오픈소스.md",
-    "전산/인공지능.md",
-    "전산/코드리뷰.md",
+    "생각/완전평면 브라운관 모니터.md",
+    "templates/1. Frontmatter template.md",
+    "생각/문맹.md",
+    "생각/아무말.md",
+    "생각/대한민국 후진성.md",
+    "생각/국가.md",
+    "생각/에리히 프롬 - 사랑의 기술.md",
+    "전산/개발자 푸념.md",
+    "생각/권리장전.md",
+    "생각/경쟁 제일주의.md",
     "전산/Iterative 개발.md",
-    "전산/Test.md",
-    "전산/공부/Prompt Engineering.md",
-    "전산/공부/유즈케이스.md",
-    "전산/공부/파이썬 기초 5종 세트.md",
-    "전산/Project/Leo.md",
+    "전산/코드리뷰.md",
+    "생각/일본.md",
+    "전산/Tip/예쁜 프롬프트.md",
+    "templates/3. Facebook 포스트 Link.md",
+    "templates/2. Timestamp as a Permalink.md",
+    "책, 영상 Journal/테무진 to the 칸 - 홍대선.md",
+    "생각/클리엔테스.md",
+    "전산/인공지능.md",
+    "생각/노예.md",
     "asset/CosmosAPersonalVoyage_archive.torrent",
     "asset/Cosmos_itemimage.jpg",
     "asset/CosmosAPersonalVoyage한국어자막.zip",
@@ -307,9 +286,6 @@
     "asset/Pasted image 20241229111841.png",
     "asset/뻔뻔한 국짐당 표결 참여도 안 해 놓고.png",
     "asset/not_iteration.png",
-    "asset/윤석열 - 잘했든 잘못했든 국민 앞에 나서겠다.png",
-    "asset/Pasted image 20250118123452.png",
-    "asset/Pasted image 20250110233811.png",
     "전산/Project",
     "전산/공부",
     "전산",

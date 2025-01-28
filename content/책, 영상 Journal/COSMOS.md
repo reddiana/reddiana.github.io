@@ -1,6 +1,7 @@
 ---
 publish: true
-tags: 
+tags:
+  - Book
 permalink: 2025.0123.2240.00
 date: 2025-01-23
 aliases:

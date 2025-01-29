@@ -16,7 +16,7 @@ Spring Boot `application properties yaml`을 운영환경마다 다르게 구성
 # Manifest yaml
 ## configmap.yaml (예시) 
 실제 `application properties yaml` 내용을 `data`의 `application.yml` 항목에 기술한다.
-(비번을 왜 secret으로 안 뺐냐고 시비걸지 말자. 간단한 예제를 만들다 보니 이랬다. 필요하면 추가로 직접 하시라)
+(비번을 왜 secret으로 안 뺐냐고 시비걸지 말자. 지금 삔트는 그게 아님. 필요하면 직접 하시라)
 ```yaml
 apiVersion: v1
 kind: ConfigMap

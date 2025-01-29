@@ -7,7 +7,7 @@ date: 2024-09-21
 ---
 ![](https://youtu.be/SJqpiAs-5wg?si=PoYUJCU9KGJTFa-u)
 
-> [!NOTE] ["큰 기업은 쪼개라" 미국이 공룡기업을 싫어하는 이유 | 북언더스탠딩 | 빅니스 | 남궁민 북칼럼니스트 - YouTube](https://www.youtube.com/watch?v=SJqpiAs-5wg)
+> [!Summary] ["큰 기업은 쪼개라" 미국이 공룡기업을 싫어하는 이유 | 북언더스탠딩 | 빅니스 | 남궁민 북칼럼니스트 - YouTube](https://www.youtube.com/watch?v=SJqpiAs-5wg) LLM요약
 > ## 1. 책 정보와 저자 소개
 > #### 1.1 책 제목  
 > - 원제: The Curse of Bigness (큰 것의 저주)  

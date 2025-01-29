@@ -4,25 +4,41 @@
     "type": "split",
     "children": [
       {
-        "id": "8af138fa4869eccf",
+        "id": "0345e5bb59e0e089",
         "type": "tabs",
         "children": [
           {
-            "id": "6f50ce9ee43c13c7",
+            "id": "97e742fbe72cb519",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/최근 변경.md",
-                "mode": "preview",
+                "file": "생각/법률.md",
+                "mode": "source",
                 "backlinks": true,
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "최근 변경"
+              "title": "법률"
+            }
+          },
+          {
+            "id": "ac703586880f3c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "전산/Tip/Spring Boot application properties yaml을 configmap으로.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Spring Boot application properties yaml을 configmap으로"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -41,9 +57,11 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {},
+              "state": {
+                "file": "전산/Tip/Spring Boot application properties yaml을 configmap으로.md"
+              },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Spring Boot application properties yaml을 configmap으로 개요"
             }
           },
           {
@@ -70,7 +88,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "전산/Tip/Spring Boot application properties yaml을 configmap으로.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -93,16 +111,15 @@
                   "repelStrength": 20,
                   "linkStrength": 1,
                   "linkDistance": 30,
-                  "scale": 0.5694148860370305,
+                  "scale": 0.42967810585687616,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "최근 변경 그래프"
+              "title": "Spring Boot application properties yaml을 configmap으로 그래프"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "99d027a85074bb90",
@@ -150,7 +167,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "애자일",
+                "query": "검찰",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -165,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5026054382324,
+    "width": 267.5026054382324,
     "collapsed": true
   },
   "right": {
@@ -253,21 +270,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6f50ce9ee43c13c7",
+  "active": "ac703586880f3c63",
   "lastOpenFiles": [
+    "Spring Boot.md",
+    "전산/Tip/Spring Boot application properties yaml을 configmap으로.md",
+    "Dataview/최근 변경.md",
+    "생각/신뢰.md",
+    "생각/검찰.md",
+    "생각/권력.md",
+    "asset/Pasted image 20250129151049.png",
+    "생각/법률.md",
+    "생각/반독점법.md",
     "책, 영상 Journal/테무진 to the 칸 - 홍대선.md",
     "생각/몽골제국.md",
-    "Dataview/최근 변경.md",
-    "생각/권력.md",
     "삼권분립.md",
     "생각/사회적합의.md",
     "생각/칭기스칸.md",
     "생각/토너대가리.md",
     "생각/Bean Counter.md",
-    "생각/신뢰.md",
-    "법률.md",
     "생각/기업권력.md",
-    "생각/반독점법.md",
     "생각/거란문자.md",
     "asset/북방민족_문자창제_시기.png",
     "asset/제_문자의_서사방식_비교.png",
@@ -281,9 +302,6 @@
     "생각/국가.md",
     "생각/에리히 프롬 - 사랑의 기술.md",
     "전산/개발자 푸념.md",
-    "생각/권리장전.md",
-    "생각/경쟁 제일주의.md",
-    "전산/Iterative 개발.md",
     "asset/CosmosAPersonalVoyage_archive.torrent",
     "asset/Cosmos_itemimage.jpg",
     "asset/CosmosAPersonalVoyage한국어자막.zip",
@@ -292,7 +310,6 @@
     "asset/Pasted image 20241229141217.png",
     "asset/Pasted image 20241229111841.png",
     "asset/뻔뻔한 국짐당 표결 참여도 안 해 놓고.png",
-    "asset/not_iteration.png",
     "전산/Project",
     "전산/공부",
     "전산",

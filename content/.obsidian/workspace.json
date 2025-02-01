@@ -13,13 +13,22 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전산/Tip/Spring Boot application properties yaml을 configmap으로.md",
+                "file": "책, 영상 Journal/록키.md",
                 "mode": "source",
+                "source": false,
                 "backlinks": true,
-                "source": false
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
               "icon": "lucide-file",
-              "title": "Spring Boot application properties yaml을 configmap으로"
+              "title": "록키"
             }
           }
         ]
@@ -42,10 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전산/Tip/Spring Boot application properties yaml을 configmap으로.md"
+                "file": "책, 영상 Journal/록키.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Spring Boot application properties yaml을 configmap으로 개요"
+              "title": "록키 의 개요"
             }
           },
           {
@@ -116,7 +128,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -129,7 +142,7 @@
               "type": "bookmarks",
               "state": {},
               "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "title": "북마크"
             }
           },
           {
@@ -151,7 +164,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Book",
+                "query": "느",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +175,8 @@
               "title": "검색"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -242,13 +256,13 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "random-note:무작위 노트 열기": false,
       "graph:그래프 뷰 열기": false,
       "canvas:새 캔버스 만들기": true,
-      "daily-notes:오늘의 데일리 노트 열기": true,
       "templates:템플릿 삽입": true,
       "command-palette:명령어 팔레트 열기": false,
-      "random-note:랜덤 노트 열기": false,
       "table-editor-obsidian:Advanced Tables Toolbar": true,
       "obsidian-git:Open Git source control": false,
       "templater-obsidian:Templater": false
@@ -256,6 +270,10 @@
   },
   "active": "42ff25f624884dff",
   "lastOpenFiles": [
+    "Dataview/최근 변경.md",
+    "생각/근묵자흑.md",
+    "책, 영상 Journal/록키.md",
+    "asset/ROCKY영화포스터.png",
     "전산/Tip/Spring Boot application properties yaml을 configmap으로.md",
     "책, 영상 Journal/대구 - 마크 쿨란스키.md",
     "책, 영상 Journal/빅니스 - Tim Wu.md",
@@ -266,7 +284,6 @@
     "전산/공부/파이썬 기초 5종 세트.md",
     "asset/예쁜 프롬프트.png.crdownload",
     "asset/예쁜 프롬프트.png",
-    "Dataview/최근 변경.md",
     "생각/꽌시.md",
     "전산/Tip/Git.md",
     "전산/Tip/Spring Boot Application Properties.md",
@@ -283,8 +300,6 @@
     "생각/사회적합의.md",
     "생각/칭기스칸.md",
     "생각/토너대가리.md",
-    "생각/Bean Counter.md",
-    "생각/기업권력.md",
     "asset/북방민족_문자창제_시기.png",
     "asset/제_문자의_서사방식_비교.png",
     "asset/거란소자_한글_철자방식_단순비교.png",
@@ -294,7 +309,6 @@
     "asset/PaulMcCarthy-Tree.png",
     "asset/Pasted image 20250118191734.png",
     "asset/Pasted image 20241229141217.png",
-    "asset/Pasted image 20241229111841.png",
     "전산/Project",
     "전산/공부",
     "전산",

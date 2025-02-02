@@ -1,21 +1,25 @@
 ---
 publish: true
-tags: 
+tags:
+  - SpringBoot
+  - K8s
+  - configmap
+  - helm
 permalink: 2025.0129.1704.04
 date: 2025-01-29
 ---
-Spring Boot `application properties yaml`을 운영환경마다 다르게 구성할텐데, 이미지 빌드할 때
-- 예상되는 환경(개발/검증/운영 등) 마다 `application properties yaml`을 만들어 이미지에 모두 넣고 환경변수 등으로 기동 시 선택되게 하든지
+Spring Boot `application properties`를 운영환경마다 다르게 구성할텐데, 이미지 빌드할 때
+- 예상되는 환경(개발/검증/운영 등) 마다 `application properties`를 만들어 이미지에 모두 넣고 환경변수 등으로 기동 시 선택되게 하든지
 - 필요한 환경 마다 각각 이미지를 빌드 하든지
-- `application properties yaml`에서 변경이 예상되는 부분을 모조리 환경변수로 빼든지
+- `application properties`에서 변경이 예상되는 부분을 모조리 환경변수로 빼든지
 
 하는 것이 일반적일 듯 싶다. 하나같이 다 불편하다.
 
-`application properties yaml`가 많이 복잡하고 배포되는 환경마다 생긴 모양이 꽤 다를 경우 `configmap`으로 구성하여 `pod`에 `volume` 마운트 하면 이런 불편이 일거에 해소된다. 진짜 편함. 
+`application properties`가 많이 복잡하고 배포되는 환경마다 생긴 모양이 꽤 다를 경우 `configmap`으로 구성하여 `pod`에 `volume` 마운트 하면 이런 불편이 일거에 해소된다. 진짜 편함. 
 
 # Manifest yaml
 ## configmap.yaml (예시) 
-실제 `application properties yaml` 내용을 `data`의 `application.yml` 항목에 기술한다.
+실제 `application properties` 내용을 `data`의 `application.yaml` 항목에 기술한다.
 (비번을 왜 secret으로 안 뺐냐고 시비걸지 말자. 지금 삔트는 그게 아님. 필요하면 직접 하시라)
 ```yaml
 apiVersion: v1
@@ -24,7 +28,7 @@ metadata:
   name: myapp-application-configmap
   ...
 data:
-  application.yml: |
+  application.yaml: |
     spring:  
       datasource:  
         url: jdbc:postgresql://myvm.mshome.net:5432/mydb  
@@ -55,22 +59,22 @@ spec:
           ...
           volumeMounts:
             - name: application-properties-volume
-              mountPath: /app/application.yml
-              subPath: application.yml
+              mountPath: /app/application.yaml
+              subPath: application.yaml
       volumes:
         - name: application-properties-volume
           configMap:
             defaultMode: 420
             name: myapp-application-configmap
             items:
-              - key: application.yml
-                path: application.yml
+              - key: application.yaml
+                path: application.yaml
 ```
 
 # Helm chart
 Helm chart로 구성한 예시는 다음과 같다.
 ## values.yaml (예시)
-실제 `application properties yaml` 내용을 `values.yaml`의 `applicationProperties` 항목에 기술한다.
+실제 `application properties` 내용을 `values.yaml`의 `applicationProperties` 항목에 기술한다.
 ```yaml
 volumes: []
 volumeMounts: []
@@ -100,7 +104,7 @@ metadata:
   labels:  
     {{- include "myapp.labels" . | nindent 4 }}  
 data:  
-  application.yml: |  
+  application.yaml: |  
     {{- toYaml .Values.applicationProperties | nindent 4 }}  
 {{- end }}
 ```
@@ -123,8 +127,8 @@ spec:
             {{- end }}  
             {{- with .Values.applicationProperties }}  
             - name: application-properties-volume  
-              mountPath: /app/application.yml  
-              subPath: application.yml  
+              mountPath: /app/application.yaml  
+              subPath: application.yaml  
             {{- end }}  
           {{- end }}  
       {{- if or .Values.volumeMounts .Values.applicationProperties }}  
@@ -138,8 +142,8 @@ spec:
             defaultMode: 420  
             name: {{ .Release.Name }}-application-configmap  
             items:  
-              - key: application.yml  
-                path: application.yml  
+              - key: application.yaml  
+                path: application.yaml  
         {{- end }}  
       {{- end }}
 ```

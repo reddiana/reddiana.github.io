@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "85e5d6f9ea3a342b",
+        "id": "20c3bec278ca2372",
         "type": "tabs",
         "children": [
           {
-            "id": "0867de21e56317ec",
+            "id": "dd5f2b2b21df8c39",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "quartz.layout.ts",
-                "bFile": "quartz.layout.ts",
-                "aRef": ""
+                "file": "전산/Tip/Spring Boot AutoConfiguration.imports.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: quartz.layout.ts"
+              "icon": "lucide-file",
+              "title": "Spring Boot AutoConfiguration.imports"
             }
           }
         ]
@@ -41,12 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "전산/Tip/Spring Boot AutoConfiguration.imports.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "Spring Boot AutoConfiguration.imports 의 개요"
             }
           },
           {
@@ -73,6 +84,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "전산/Tip/Spring Boot AutoConfiguration.imports.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -100,7 +112,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "Spring Boot AutoConfiguration.imports 그래프"
             }
           }
         ]
@@ -255,10 +267,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0867de21e56317ec",
+  "active": "dd5f2b2b21df8c39",
   "lastOpenFiles": [
-    "생각/Boeing.md",
     "Dataview/최근 변경.md",
+    "전산/Tip/Spring Boot AutoConfiguration.imports.md",
+    "생각/Boeing.md",
     "생각/언론.md",
     "asset/오베르멍뚸흐.png",
     "asset/오베르 멍뚸흐.png",
@@ -266,7 +279,6 @@
     "생각/궤변.md",
     "생각/규제.md",
     "전산/Tip/Git.md",
-    "전산/Tip/Spring Boot AutoConfiguration.imports.md",
     "전산/Tip/Spring Boot application properties를 configmap으로.md",
     "전산/오픈소스.md",
     "asset/식목일 국유림 개발 발표.png",

@@ -251,8 +251,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -270,6 +269,7 @@
   },
   "active": "743a60cdc3cfca89",
   "lastOpenFiles": [
+    "생각/삼성 종특.md",
     "전산/Tip/Spring Boot AutoConfiguration.imports.md",
     "Dataview/최근 변경.md",
     "생각/Boeing.md",
@@ -304,7 +304,6 @@
     "생각/탑다운.md",
     "생각/신뢰.md",
     "생각/몽골제국.md",
-    "생각/삼성 종특.md",
     "생각/에리히 프롬.md",
     "asset/ROCKY영화포스터.webp.crdownload",
     "asset/예쁜 프롬프트.png.crdownload",

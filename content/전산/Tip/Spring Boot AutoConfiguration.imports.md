@@ -35,3 +35,10 @@ public class MyConfig {
 ```
 
 물론 `@SpringBootApplication` 어노테이션이 선언된 패키지의 `@ComponentScan` 어노테이션에 `com.mycom.myframework`을 추가로 설정해주는 것이 더 간편하다. 하지만, 위 "가령"에 기술한 요구사항을 만족시키려면 `AutoConfiguration.imports`를 사용해야한다.
+## Ref.
+실은 하나도 안 읽어봤는데 나중에 읽어보려고
+- [Spring Boot Auto-Configuration](https://sundaland.tistory.com/398)
+- [A Custom Auto-Configuration with Spring Boot | Baeldung](https://www.baeldung.com/spring-boot-custom-auto-configuration)
+- [[Springboot] 스프링 부트 자동구성의 동작 원리 파헤쳐보기 (@SpringBootApplication, @EnableAutoConfiguratioin, @Import, AutoConfigurationImportSelector)](https://yeees.tistory.com/477)
+- [Spring Boot의 Auto Configuration](https://yebali.tistory.com/90)
+- [Spring-Boot의 동작원리 이해하기 (+ 자동구성, 라이브러리 잘 사용하기!)](https://jaehoney.tistory.com/348)

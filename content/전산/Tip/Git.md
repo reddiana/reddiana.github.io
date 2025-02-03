@@ -1,7 +1,8 @@
 ---
-publish: false
+publish: true
 tags: 
 permalink: 2024.0923.2113.38
+date: 2024-09-23
 ---
 ### GitHub Personal access tokens
 - [GitHub Error: Authentication Failed from the Command Line](https://medium.com/@ginnyfahs/github-error-authentication-failed-from-command-line-3a545bfd0ca8)

@@ -18,6 +18,7 @@ date: 2022-02-27
 
 ## 함께 보기
 - [GE 출신 CEO들이 만든 보잉의 비극 | 티타임즈 (daum.net)](https://v.daum.net/v/5e202c3eca835a181486ba36?fbclid=IwZXh0bgNhZW0CMTAAAR2S9ENL8qcdPFBoOb3Vt6Yn-5u323CYy95NZuZK0RZ_c156AvBl7kwdewo_aem_NK2GGNNIIRxD-b5tUjMALA)
+- [B737 MAX의 연쇄 추락과 보잉의 선택](https://www.youtube.com/watch?v=g4eblbJWKrE)
 - [다운폴: 더 보잉 케이스 - 넷플릭스 (netflix.com)](https://www.netflix.com/title/81272421?fbclid=IwY2xjawFXQItleHRuA2FlbQIxMAABHXGORjyCGneYnzQESJXl6n8EVFnUDNONNWRfCPptlZ04E4mpPnH9Y46nJA_aem_sKvSrRWFFIKXpdrChhcoVA)
 - [Boeing has ‘severe situation’ after flawed inspections on refueling plane, US Air Force says | CNN Politics](https://edition.cnn.com/2019/03/14/politics/air-force-boeing-refueling-plane/index.html?fbclid=IwY2xjawFXQKFleHRuA2FlbQIxMAABHXGORjyCGneYnzQESJXl6n8EVFnUDNONNWRfCPptlZ04E4mpPnH9Y46nJA_aem_sKvSrRWFFIKXpdrChhcoVA)
 - [Air Force halts deliveries of Boeing tankers for second time - Roll Call](https://rollcall.com/2019/04/02/air-force-halts-deliveries-of-boeing-tankers-for-second-time/?fbclid=IwY2xjawFXQLNleHRuA2FlbQIxMAABHRkUTVJvLLixrHhTet8XdC_YZMpwpA3FFEdcDV8r8N-ZnV0VgRS0y18A9Q_aem_aHfpuXizNeRECNCQAhoSpw)

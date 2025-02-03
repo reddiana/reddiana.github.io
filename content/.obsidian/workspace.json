@@ -4,59 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "db4ee37c874cd772",
+        "id": "85e5d6f9ea3a342b",
         "type": "tabs",
         "children": [
           {
-            "id": "48040f923dcd913e",
+            "id": "0867de21e56317ec",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Dataview/최근 변경.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "quartz.layout.ts",
+                "bFile": "quartz.layout.ts",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "최근 변경"
-            }
-          },
-          {
-            "id": "7f97ff942d98852b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "생각/스포츠 정신.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "스포츠 정신"
+              "icon": "diff",
+              "title": "Diff: quartz.layout.ts"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -76,13 +41,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전산/Tip/Spring Boot AutoConfiguration.imports.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Spring Boot AutoConfiguration.imports 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -109,7 +73,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "생각/스포츠 정신.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -137,11 +100,10 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "스포츠 정신 그래프"
+              "title": "그래프 뷰"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
         "id": "99d027a85074bb90",
@@ -190,7 +152,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:SpringBoot",
+                "query": "SBS 그것이 알고 싶다 언론 실험   1) 외국인 엑스트라 섭외, 오베르 멍뚸흐라는 가명으로 스시인파리라는 식당 차렸다고 가짜보도자료 작성해서 2개 언론사에 배포함  (멍뚸흐 Menteur : 불어로 거짓말쟁이란 뜻)   2) 140만원 입금후 48시간 내 네이버와 다음 포털에 뉴스 나옴   3) 팩트체크를 시도하거나 취재요청을 한 언론사는 1곳도 없었음  (이후 타 언론사들이 비슷한 기사 쏟아내면서 한때 실검에도 오름)",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,8 +163,7 @@
               "title": "검색"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -294,48 +255,48 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7f97ff942d98852b",
+  "active": "0867de21e56317ec",
   "lastOpenFiles": [
+    "생각/Boeing.md",
     "Dataview/최근 변경.md",
+    "생각/언론.md",
+    "asset/오베르멍뚸흐.png",
+    "asset/오베르 멍뚸흐.png",
+    "생각/겉멋.md",
+    "생각/궤변.md",
+    "생각/규제.md",
+    "전산/Tip/Git.md",
+    "전산/Tip/Spring Boot AutoConfiguration.imports.md",
+    "전산/Tip/Spring Boot application properties를 configmap으로.md",
+    "전산/오픈소스.md",
+    "asset/식목일 국유림 개발 발표.png",
+    "asset/나만 일해.png",
+    "asset/경호처 지지자 뒤에 선 대통령.png",
+    "asset/경복궁재개발.png",
+    "asset/거란소자_한글_철자방식_단순비교.png",
+    "asset/50대50주식혼합전략.png",
+    "asset/2차계엄부탁해요.png",
+    "asset/Pasted image 20250109141547.png",
+    "index.md",
+    "templates/2. Timestamp as a Permalink.md",
+    "templates/1. Frontmatter template.md",
     "전산/인공지능.md",
     "생각/창의성.md",
+    "생각/스포츠 정신.md",
     "훈민정음.md",
     "생각/거란문자.md",
     "생각/노예.md",
     "생각/권리장전.md",
     "생각/권력.md",
-    "전산/Tip/Spring Boot application properties를 configmap으로.md",
-    "전산/Tip/Spring Boot AutoConfiguration.imports.md",
     "생각/탑다운.md",
-    "생각/스포츠 정신.md",
     "생각/신뢰.md",
     "생각/몽골제국.md",
-    "생각/언론.md",
     "생각/삼성 종특.md",
     "생각/에리히 프롬.md",
-    "생각/폴리네시아.md",
-    "생각/진영논리.md",
-    "생각/법률.md",
-    "생각/진화론.md",
-    "책, 영상 Journal/가즈오 이시구로.md",
-    "책, 영상 Journal/록키.md",
-    "책, 영상 Journal/테무진 to the 칸 - 홍대선.md",
-    "asset/ROCKY영화포스터.webp",
     "asset/ROCKY영화포스터.webp.crdownload",
-    "생각/근묵자흑.md",
-    "asset/ROCKY영화포스터.png",
-    "책, 영상 Journal/대구 - 마크 쿨란스키.md",
     "asset/예쁜 프롬프트.png.crdownload",
-    "asset/예쁜 프롬프트.png",
-    "asset/Pasted image 20250129151049.png",
-    "asset/북방민족_문자창제_시기.png",
-    "asset/제_문자의_서사방식_비교.png",
-    "asset/거란소자_한글_철자방식_단순비교.png",
     "asset/CosmosAPersonalVoyage_archive.torrent",
-    "asset/Cosmos_itemimage.jpg",
     "asset/CosmosAPersonalVoyage한국어자막.zip",
-    "asset/PaulMcCarthy-Tree.png",
-    "asset/Pasted image 20250118191734.png",
     "전산/Project",
     "전산/공부",
     "전산",

@@ -11,7 +11,7 @@ export const sharedPageComponents: SharedLayout = {
       "reddiana@GitHub": "https://github.com/reddiana",
       //"Discord Community": "https://discord.gg/cRFFHYye7t",
       "reddiana@Facebook": "https://www.facebook.com/reddiana",
-      "공부하는회사원@YouTube": "https://www.youtube.com/@%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%ED%9A%8C%EC%82%AC%EC%9B%90%EB%B9%A8%EA%B0%95%EB%8B%AC",
+      "공부하는회사원@YouTube": "https://www.youtube.com/@%EA%B3%B5%EB%B6%80%ED%95%98%EB%8A%94%ED%9A%8C%EC%82%AC%EC%9B%90%EB%B9%A8%EA%B0%95%EB%8B%AC/videos",
     },
   }),
 }
@@ -46,7 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
       localGraph: {
         // drag: true, // whether to allow panning the view around
         // zoom: true, // whether to allow zooming in and out
-        depth: 2, // how many hops of notes to display
+        depth: 3, // how many hops of notes to display
         // scale: 0.5, // 1.1, // default view scale
         // repelForce: 0.5, // how much nodes should repel each other
         // centerForce: 0.3, // how much force to use when trying to center the nodes
@@ -54,7 +54,7 @@ export const defaultContentPageLayout: PageLayout = {
         // fontSize: 0.6, // what size should the node labels be?
         opacityScale: 2, // 1, // how quickly do we fade out the labels when zooming out?
         // removeTags: [], // what tags to remove from the graph
-		removeTags: ["관리페이지"],
+		    removeTags: ["관리페이지"],
         // showTags: true, // whether to show tags in the graph
       },
       globalGraph: {
@@ -68,7 +68,7 @@ export const defaultContentPageLayout: PageLayout = {
         fontSize: 0.8,
         opacityScale: 3, // 1,
         // removeTags: [], // what tags to remove from the graph
-		removeTags: ["관리페이지"],
+		    removeTags: ["관리페이지"],
         showTags: false, // true, // whether to show tags in the graph
       },
     }),

@@ -13,9 +13,7 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
         backgroundSize: 'cover',
         backgroundPosition: 'center',
         backgroundRepeat: 'no-repeat',
-        // height: '100vh',
-        // width: '100vw',
-        height: '40vw',
+        height: '60vw',
         width: '100%',
       }}
     >

@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Dataview/최근 변경.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 267.5026054382324,
-    "collapsed": true
+    "width": 267.5026054382324
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -268,7 +267,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e9ba00a25eb7b5f",
+  "active": "7a44a56ca1ca2b21",
   "lastOpenFiles": [
     "교육.md",
     "생각/사회적합의.md",

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "46db39cad25d9ac6",
+        "id": "812a5468e2d6c4fd",
         "type": "tabs",
         "children": [
           {
-            "id": "743a60cdc3cfca89",
+            "id": "3e9ba00a25eb7b5f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "생각/삼성 종특.md",
+                "file": "Dataview/최근 변경.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "삼성 종특"
+              "title": "최근 변경"
             }
           }
         ]
@@ -51,13 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "생각/삼성 종특.md",
+                "file": "Dataview/최근 변경.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "삼성 종특 의 개요"
+              "title": "최근 변경 의 개요"
             }
           },
           {
@@ -76,43 +76,6 @@
               },
               "icon": "links-coming-in",
               "title": "백링크"
-            }
-          },
-          {
-            "id": "bf0817875c20b345",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "생각/삼성 종특.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 2,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": false,
-                  "showTags": false,
-                  "showAttachments": false,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": false,
-                  "centerStrength": 1,
-                  "repelStrength": 20,
-                  "linkStrength": 1,
-                  "linkDistance": 30,
-                  "scale": 1.0000000000000002,
-                  "close": true
-                }
-              },
-              "icon": "lucide-git-fork",
-              "title": "삼성 종특 그래프"
             }
           }
         ]
@@ -174,8 +137,46 @@
               "icon": "lucide-search",
               "title": "검색"
             }
+          },
+          {
+            "id": "bf0817875c20b345",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 2,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 20,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.7545958428437244,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "최근 변경 그래프"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -267,11 +268,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "743a60cdc3cfca89",
+  "active": "3e9ba00a25eb7b5f",
   "lastOpenFiles": [
+    "교육.md",
+    "생각/사회적합의.md",
+    "생각/대한민국 후진성.md",
     "생각/삼성 종특.md",
-    "전산/Tip/Spring Boot AutoConfiguration.imports.md",
     "Dataview/최근 변경.md",
+    "전산/Tip/Spring Boot AutoConfiguration.imports.md",
     "생각/Boeing.md",
     "생각/언론.md",
     "asset/오베르멍뚸흐.png",
@@ -302,9 +306,6 @@
     "생각/권리장전.md",
     "생각/권력.md",
     "생각/탑다운.md",
-    "생각/신뢰.md",
-    "생각/몽골제국.md",
-    "생각/에리히 프롬.md",
     "asset/ROCKY영화포스터.webp.crdownload",
     "asset/예쁜 프롬프트.png.crdownload",
     "asset/CosmosAPersonalVoyage_archive.torrent",

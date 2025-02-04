@@ -7,11 +7,24 @@ const NotFound: QuartzComponent = ({ cfg }: QuartzComponentProps) => {
   const baseDir = url.pathname
 
   return (
-    <article class="popover-hint">
-      <h1>404</h1>
-      <p>{i18n(cfg.locale).pages.error.notFound}</p>
-      <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
-    </article>
+    <div
+      style={{
+        backgroundImage: 'url("/static/404_full_moon.jpg")',
+        backgroundSize: 'cover',
+        backgroundPosition: 'center',
+        backgroundRepeat: 'no-repeat',
+        // height: '100vh',
+        // width: '100vw',
+        height: '40vw',
+        width: '100%',
+      }}
+    >
+      <article class="popover-hint">
+        <h1>404</h1>
+        <p>{i18n(cfg.locale).pages.error.notFound}</p>
+        <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+      </article>
+    </div>
   )
 }
 

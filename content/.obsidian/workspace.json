@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Dataview/최근 변경.md",
-                "mode": "preview",
+                "file": "전산/공부/K8s Job 단계 판별.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "최근 변경"
+              "title": "K8s Job 단계 판별"
             }
           }
         ]
@@ -51,13 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "전산/공부/K8s Job 단계 판별.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "최근 변경 의 개요"
+              "title": "K8s Job 단계 판별 의 개요"
             }
           },
           {
@@ -175,8 +175,7 @@
               "title": "최근 변경 그래프"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -267,13 +266,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7a44a56ca1ca2b21",
+  "active": "3e9ba00a25eb7b5f",
   "lastOpenFiles": [
+    "전산/개발자 푸념.md",
+    "전산/공부/K8s Job 단계 판별.md",
+    "asset/Job Result 판별.png",
+    "전산/공부/파이썬 기초 5종 세트.md",
+    "전산/공부/유즈케이스.md",
+    "Dataview/최근 변경.md",
+    "asset/BatchResult 판별.png",
+    "asset/Job 단계 판별.png",
+    "asset/Job 단계 State Diagram.png",
+    "asset/k8s_job_status.png",
+    "asset/k8s_job_status.drawio",
     "교육.md",
     "생각/사회적합의.md",
     "생각/대한민국 후진성.md",
     "생각/삼성 종특.md",
-    "Dataview/최근 변경.md",
     "전산/Tip/Spring Boot AutoConfiguration.imports.md",
     "생각/Boeing.md",
     "생각/언론.md",
@@ -288,11 +297,6 @@
     "asset/식목일 국유림 개발 발표.png",
     "asset/나만 일해.png",
     "asset/경호처 지지자 뒤에 선 대통령.png",
-    "asset/경복궁재개발.png",
-    "asset/거란소자_한글_철자방식_단순비교.png",
-    "asset/50대50주식혼합전략.png",
-    "asset/2차계엄부탁해요.png",
-    "asset/Pasted image 20250109141547.png",
     "index.md",
     "templates/2. Timestamp as a Permalink.md",
     "templates/1. Frontmatter template.md",
@@ -300,11 +304,6 @@
     "생각/창의성.md",
     "생각/스포츠 정신.md",
     "훈민정음.md",
-    "생각/거란문자.md",
-    "생각/노예.md",
-    "생각/권리장전.md",
-    "생각/권력.md",
-    "생각/탑다운.md",
     "asset/ROCKY영화포스터.webp.crdownload",
     "asset/예쁜 프롬프트.png.crdownload",
     "asset/CosmosAPersonalVoyage_archive.torrent",
@@ -314,7 +313,6 @@
     "전산",
     "전산/Tip",
     "책, 영상 Journal",
-    "asset/Franz_Kafka,_1923.jpg.crdownload",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

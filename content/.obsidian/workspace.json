@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "812a5468e2d6c4fd",
+        "id": "833eef0d62e0d880",
         "type": "tabs",
         "children": [
           {
-            "id": "3e9ba00a25eb7b5f",
+            "id": "4b8fb83a1eb1b808",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "content/생각/대한민국 후진성.md",
-                "bFile": "content/생각/대한민국 후진성.md",
-                "aRef": ""
+                "file": "잡동사니/ASCII art.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 대한민국 후진성"
+              "icon": "lucide-file",
+              "title": "ASCII art"
             }
           }
         ]
@@ -41,12 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "잡동사니/ASCII art.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "개요"
+              "title": "ASCII art 의 개요"
             }
           },
           {
@@ -165,8 +176,7 @@
               "title": "최근 변경 그래프"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -258,13 +268,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "3e9ba00a25eb7b5f",
+  "active": "4b8fb83a1eb1b808",
   "lastOpenFiles": [
+    "asset/ASCII - March of Progress.png",
+    "생각/아무말.md",
+    "잡동사니/ASCII art.md",
+    "asset/강간의 형식을 빌린 사랑 고백.png",
+    "asset/ASCII - Good Luck.txt",
+    "asset/ASCII - Good Lcuk.png",
+    "asset/ASCII - March of Progress.txt",
+    "asset/March of Progress.png",
+    "잡동사니",
+    "토론.md",
+    "생각/궤변.md",
     "생각/삼성 종특.md",
     "Dataview/최근 변경.md",
     "전산/공부/K8s Job 단계 판별.md",
     "생각/대한민국 후진성.md",
-    "생각/궤변.md",
     "asset/Pasted image 20250207115257.png",
     "생각/언론.md",
     "전산/개발자 푸념.md",
@@ -280,31 +300,21 @@
     "생각/사회적합의.md",
     "전산/Tip/Spring Boot AutoConfiguration.imports.md",
     "생각/Boeing.md",
-    "asset/오베르멍뚸흐.png",
-    "asset/오베르 멍뚸흐.png",
     "생각/겉멋.md",
     "생각/규제.md",
     "전산/Tip/Git.md",
     "전산/Tip/Spring Boot application properties를 configmap으로.md",
     "전산/오픈소스.md",
-    "asset/식목일 국유림 개발 발표.png",
-    "asset/나만 일해.png",
     "index.md",
     "templates/2. Timestamp as a Permalink.md",
     "templates/1. Frontmatter template.md",
     "전산/인공지능.md",
-    "생각/창의성.md",
-    "생각/스포츠 정신.md",
-    "훈민정음.md",
     "asset/ROCKY영화포스터.webp.crdownload",
     "asset/예쁜 프롬프트.png.crdownload",
     "asset/CosmosAPersonalVoyage_archive.torrent",
     "asset/CosmosAPersonalVoyage한국어자막.zip",
     "전산/Project",
     "전산/공부",
-    "전산",
-    "전산/Tip",
-    "책, 영상 Journal",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

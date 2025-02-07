@@ -66,62 +66,6 @@ permalink: 2025.0207.2108.59
 ## Good Luck
 ![[ASCII - Good Lcuk.png]] 
 ![[ASCII - Good Luck.txt]]
-## Gone With The Wind
-```
-Gone With The Wind                          - `'``
-                                     .,!!'         `!..
-                                .,<!!''              `!!!
-                             ..''''.;,;>               !!;
-                             `    ''```               >`!!-
-                           <   ' .,,.     -      ''   - `! \
-                          !` ' ,d""`"                  -;   !
-         .dP=nq,.        .    c".r""           .            !>
-       .,uMx. .."*=   ,c$$F  dL $.4c`          ` cc$hcr  ';;!>
-    .,nMC".)Mx ``.,cc$???' ' ?$.dLJ"        - - d$$$$$$r    `!
-ndMMMMMMMMb`)MMx $???<..cCccc,`??$h=  .,,c,,.,,c$$$$$$$$     '
-MMMMMMMMMMM,`MMM.".,c,`CCCCCCC>cc,<c> d$$$$$$$$$$$$$$$$$c     '
-MMMMMMMMMMC"")MMMn.`CCCC`<CCCCCCC>'',d$$$$$$"""??$$$$$$$$h
-MMMMMMMMMMMn,`)MMMb.`CCCCCCCCCCC>>,$$$$$$$$$$F"c ""??$$$$'
-MMMMMMMMMMMMbn, `)P .`CCCCCCCC>';',$????$$$$$$c   `%,J$"
-MMMMMMMMMMMP"Mbdb-.dMx.<CC>'<<>'CcJ$$rJr)$$$$$$$hcc ""
-MMMMM"MMMMMb """" MMM" <C>>>cC>>\,3P?icCCC$$"$$$$$'
-MMMMM,`MMMML.n.  .MMM d$F4d `<C,<>)?P?????$$.`?$$'
-MMMMMM MMMMMMMb = MM'.$$$$P . `'. z$hc$$c, "=  "'
-MMMMML,MMMMMMMMb .)P $$$$F.MMMMn.  ?$$c `"
-M"MMMMMMMMMMMMMM  J J$$$$'4MMMMML   """          zc,.     ...
-  MMMMMMP"MMMMMP  M $$$$$.4MMMMMM            cccd?"$$$hccd?$$$$$$P """c,
- -`4MMMMM.)MMMP d'4 $$$$$L`MMMMMP       ,cc$ $$$hc??"".,$$ $$$$P" ,c, `"-.
-$c' MMMMMb MMMb 4 Mx`$$$$$ MMMMMP       $$$$$$$$$$h.  $$$P "$P     """   `
-$$. `MMMMM.`MMML`r4M J$$$$.`MMMM'       ?$$$$$$$$$$$$c ?",c$$L -      .  .-
-$$L' MMMMMM.)MMM >`P $$$$$',MMMP         ?$$$$$$$$$$$$hcc$$P"" "     `' '' "
-$$$ `MMMMMP uMMM ". J$$$$$ MMMP         c '$$$???$$$$$$$$$" `   "   ; '    `
-$$$  4MMMM 4MMMML '."$$$$$ MMM'        d$$.`:<(J$$$$$$$$P'  `       ```
-$$$h  4MMMB4MMMMP. >.$$$$F;MMM       .d$$$$c.%.""3$$$P" .     .   .
-$$$$.. 4MM `MMMM Jn J$$$$F4MMM      .$$$$$$$ccc, <L               -    `..
-$$$$h h 4M',MMMM MP $$$$$F'??      .$$$$$$$$$$$$L $$r <       ..
-$$$$$ MB4M MMMM' MB4$$"".zcccc,,.  $$$$$$$$$$$??$r ?".`-   "              `
-$$$$$ M J" ".,,.`4> $".??$$$$$$$$F ??$P??""""" `" .      .     -"   . `
-$$??? "  ,MM"',. ' `" " J$$$$$$$"%%cc,zc$$$$$hc, .'  ;  .         "   `  <'
-"',cCCCC 4P",d$$$$$$$$$$$$$$$$$$$cc,.$$$$$$$$$$$.    <   .        -     '` "
-'<C'`CCC>       ===$$$$$$$$$$$$$$$$ J$$$$$$$$$$$$.  .!,.       !!!   '\  ` "
- `'; `CCC,cc,.,`-=nn."?$$$$$$$$$$$F.$$$$$$$$$$$$$$ ''<!!       `!    '   /
-, ;> cCCCCCCCCCC>, "Mb.`$$$$$$$$$$FJ$$$$$$$$$$$$$$h. `!`!!`      `    `.'
-> !>.`''<<<<CCCCCC.. Mbx "?$$$$$$$$$$$$$$$$$$$$$$$$h '   `;    -      -
- <!!`!'!;-< `<CCCC>`b "4Mn "?$$$$$$$$$$$$$$$$$$$$$$$     .'        ;-
-<!>;>.>  .`.'. `'<<c`Mn MMM,`$$$$$$$$$$$$$$$$$$$$$$$ "           .'
-!!>!!'..'. -`.'`'-;;.`"b`"4bmn ?$$$$F`$$$$$$$$$$$$$$ "        ';'
-!!!!!..;!'' ; `>;!!``!; "=,`"4b,"??$h ?$$$$$$$$$$$$$ .    "   .!
-!!!!!!'` .`.'< `.`.`'<`.!.`"b,"44n."?,`$$$$$$$$$$$$F.`',    ,' !
-!!!!!!!!>;;;;;;!!!!!;,..```  "4n.`"mn, `""?$$$$$$$$''Mn  "   ><'
-!!!!!!!!!!!!!!!!!!!!!!!!>;!!!>; "`x`44MMML $$$$$$$$ . )h   '' /
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!; =n "MM" ??$$$$$P M MMr  ..`
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!> `4n."ndh,,,.  umMMP" <!`
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!>;.` MMMP""44MM"",mdr'
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!;.',,""==dMMMMPP"
-!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!''`    ``! 4MMnnnMMP"" n\
-!!!!!!!!!!!!!!!!!!!!!!!!!!>''           !..""".JMMMMMP"
-                                         Allen Mullen
-```
 ## March of Progress
 [March of Progress - Wikipedia](https://en.wikipedia.org/wiki/March_of_Progress)
 [The March of Progress and the Fallacy of Progressive Evolution — On Verticality](https://www.onverticality.com/blog/march-of-progress)

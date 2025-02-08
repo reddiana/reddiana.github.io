@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "토론.md",
+                "file": "생각/토론.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "토론.md",
+                "file": "생각/토론.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -296,7 +296,8 @@
   "active": "6cae294adee44ce0",
   "lastOpenFiles": [
     "생각/궤변.md",
-    "토론.md",
+    "생각/토론.md",
+    "생각/교육.md",
     "Dataview/최근 변경.md",
     "생각/법.md",
     "전산/인공지능.md",
@@ -323,7 +324,6 @@
     "asset/Job 단계 판별.png",
     "asset/Job 단계 State Diagram.png",
     "asset/k8s_job_status.drawio",
-    "교육.md",
     "생각/사회적합의.md",
     "전산/Tip/Spring Boot AutoConfiguration.imports.md",
     "생각/Boeing.md",

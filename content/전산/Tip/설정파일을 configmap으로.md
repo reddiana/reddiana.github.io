@@ -8,7 +8,7 @@ tags:
 permalink: 2025.0129.1704.04
 date: 2025-01-29
 ---
-Spring Boot `application properties`를 운영환경마다 다르게 구성할텐데, 이미지 빌드할 때
+설정파일을 이미지에 포함시켜 배포할 때, 운영환경마다 다른 설정파일이 필요한 경우 조금 난감하다. 예를 들어 Spring Boot `application properties`를 운영환경마다 다르게 구성할텐데, 이미지 빌드할 때
 - 예상되는 환경(개발/검증/운영 등) 마다 `application properties`를 만들어 이미지에 모두 넣고 환경변수 등으로 기동 시 선택되게 하든지
 - 필요한 환경 마다 각각 이미지를 빌드 하든지
 - `application properties`에서 변경이 예상되는 부분을 모조리 환경변수로 빼든지

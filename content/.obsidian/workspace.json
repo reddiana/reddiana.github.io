@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "cb748f6f85b64470",
+        "id": "ac21a6a9ada4a81a",
         "type": "tabs",
         "children": [
           {
-            "id": "66081f294af279d3",
+            "id": "039a4ee35c80cacb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "생각/토론.md",
-                "mode": "source",
+                "file": "Dataview/최근 변경.md",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "토론"
+              "title": "최근 변경"
             }
           }
         ]
@@ -51,13 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "생각/토론.md",
+                "file": "Dataview/최근 변경.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "토론 의 개요"
+              "title": "최근 변경 의 개요"
             }
           },
           {
@@ -128,7 +128,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "SBS 그것이 알고 싶다 언론 실험   1) 외국인 엑스트라 섭외, 오베르 멍뚸흐라는 가명으로 스시인파리라는 식당 차렸다고 가짜보도자료 작성해서 2개 언론사에 배포함  (멍뚸흐 Menteur : 불어로 거짓말쟁이란 뜻)   2) 140만원 입금후 48시간 내 네이버와 다음 포털에 뉴스 나옴   3) 팩트체크를 시도하거나 취재요청을 한 언론사는 1곳도 없었음  (이후 타 언론사들이 비슷한 기사 쏟아내면서 한때 실검에도 오름)",
+                "query": "tag:SpringBoot",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -176,7 +176,8 @@
               "title": "최근 변경 그래프"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -252,8 +253,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5,
-    "collapsed": true
+    "width": 320.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -269,11 +269,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "66081f294af279d3",
+  "active": "039a4ee35c80cacb",
   "lastOpenFiles": [
-    "생각/궤변.md",
+    "생각/규제.md",
+    "전산/애자일.md",
+    "생각/클리엔테스.md",
+    "생각/처세.md",
+    "책, 영상 Journal/Franz Kafka.md",
+    "생각/로봇.md",
+    "전산/Tip/설정파일을 configmap으로.md",
+    "전산/Tip/Spring Boot AutoConfiguration.imports.md",
     "Dataview/최근 변경.md",
     "생각/토론.md",
+    "전산/공부/K8s Job 단계 판별.md",
+    "생각/궤변.md",
     "생각/교육.md",
     "생각/법.md",
     "전산/인공지능.md",
@@ -288,7 +297,6 @@
     "asset/March of Progress.png",
     "잡동사니",
     "생각/삼성 종특.md",
-    "전산/공부/K8s Job 단계 판별.md",
     "생각/대한민국 후진성.md",
     "asset/Pasted image 20250207115257.png",
     "생각/언론.md",
@@ -301,16 +309,8 @@
     "asset/Job 단계 State Diagram.png",
     "asset/k8s_job_status.drawio",
     "생각/사회적합의.md",
-    "전산/Tip/Spring Boot AutoConfiguration.imports.md",
     "생각/Boeing.md",
     "생각/겉멋.md",
-    "생각/규제.md",
-    "전산/Tip/Git.md",
-    "전산/Tip/Spring Boot application properties를 configmap으로.md",
-    "전산/오픈소스.md",
-    "index.md",
-    "templates/2. Timestamp as a Permalink.md",
-    "templates/1. Frontmatter template.md",
     "asset/ROCKY영화포스터.webp.crdownload",
     "asset/예쁜 프롬프트.png.crdownload",
     "asset/CosmosAPersonalVoyage_archive.torrent",

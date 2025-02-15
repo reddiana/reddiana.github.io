@@ -4,17 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6402058b6b3f972b",
+        "id": "14339fe5962ca298",
         "type": "tabs",
         "children": [
           {
-            "id": "6d0acd0e4a6dd0ec",
+            "id": "555bccbb48c2acc5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전산/공부/K8s Job 단계 판별.md",
-                "mode": "preview",
+                "file": "전산/인공지능.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "K8s Job 단계 판별"
+              "title": "인공지능"
             }
           }
         ]
@@ -51,13 +51,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전산/공부/K8s Job 단계 판별.md",
+                "file": "전산/인공지능.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "K8s Job 단계 판별 의 개요"
+              "title": "인공지능 의 개요"
             }
           },
           {
@@ -66,7 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "전산/인공지능.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,10 +76,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "최근 변경 의 백링크"
+              "title": "인공지능 의 백링크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "99d027a85074bb90",
@@ -128,7 +129,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:SpringBoot",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -269,14 +270,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "6d0acd0e4a6dd0ec",
+  "active": "555bccbb48c2acc5",
   "lastOpenFiles": [
+    "생각/파렴치.md",
+    "asset/미국 수정헌법 제1조.png",
+    "안목.md",
+    "생명.md",
     "Dataview/최근 변경.md",
+    "생각/사회적합의.md",
+    "생각/사회진화론.md",
+    "생각/경쟁 제일주의.md",
+    "생각/문명.md",
+    "생각/체제.md",
+    "생각/언론.md",
+    "생각/있어 보이는 말 하기.md",
+    "생각/아무말.md",
+    "생각/신뢰.md",
+    "전산/공부/K8s Job 단계 판별.md",
     "생각/경쟁.md",
     "생각/SNT.md",
     "생각/일본.md",
     "책, 영상 Journal/테무진 to the 칸 - 홍대선.md",
-    "전산/공부/K8s Job 단계 판별.md",
     "asset/k8s_job_status.png",
     "생각/삼성 종특.md",
     "생각/감사.md",
@@ -285,19 +299,7 @@
     "생각/토론.md",
     "생각/법.md",
     "생각/규제.md",
-    "전산/애자일.md",
-    "생각/클리엔테스.md",
-    "생각/처세.md",
-    "책, 영상 Journal/Franz Kafka.md",
-    "생각/로봇.md",
-    "전산/Tip/설정파일을 configmap으로.md",
-    "전산/Tip/Spring Boot AutoConfiguration.imports.md",
-    "생각/궤변.md",
-    "생각/교육.md",
-    "전산/인공지능.md",
     "asset/Luddite.png",
-    "생각/아무말.md",
-    "잡동사니/ASCII art.md",
     "asset/ASCII - March of Progress.png",
     "asset/강간의 형식을 빌린 사랑 고백.png",
     "asset/ASCII - Good Luck.txt",
@@ -305,11 +307,9 @@
     "asset/ASCII - March of Progress.txt",
     "asset/March of Progress.png",
     "잡동사니",
-    "생각/대한민국 후진성.md",
     "asset/Pasted image 20250207115257.png",
     "asset/Job Result 판별.png",
     "asset/BatchResult 판별.png",
-    "asset/Job 단계 판별.png",
     "asset/k8s_job_status.drawio",
     "asset/ROCKY영화포스터.webp.crdownload",
     "asset/예쁜 프롬프트.png.crdownload",

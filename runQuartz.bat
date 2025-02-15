@@ -1,7 +1,7 @@
 cd /d "%~dp0"
 rmdir /S /Q public
 
-npm update
+@REM call npm update
 
 explorer http://localhost:8080
-npx quartz build --serve
+call npx quartz build --serve

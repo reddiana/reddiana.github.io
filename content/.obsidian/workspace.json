@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "14339fe5962ca298",
+        "id": "1511310df70a6886",
         "type": "tabs",
         "children": [
           {
-            "id": "555bccbb48c2acc5",
+            "id": "70ecab9104b31fba",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전산/인공지능.md",
+                "file": "전산/애자일.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "인공지능"
+              "title": "애자일"
             }
           }
         ]
@@ -66,8 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전산/인공지능.md",
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
@@ -76,7 +75,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "인공지능 의 백링크"
+              "title": "백링크"
             }
           }
         ],
@@ -178,7 +177,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -270,17 +269,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "555bccbb48c2acc5",
+  "active": "70ecab9104b31fba",
   "lastOpenFiles": [
-    "전산/인공지능.md",
+    "전산/애자일.md",
+    "asset/한큐에.png",
+    "생각/트롤리 딜레마.md",
+    "생각/엘리트주의.md",
+    "생각/수학 교육.md",
+    "생각/경쟁 제일주의.md",
+    "생각/결과주의.md",
     "생각/파렴치.md",
+    "Dataview/최근 변경.md",
+    "전산/인공지능.md",
     "asset/미국 수정헌법 제1조.png",
     "안목.md",
     "생명.md",
-    "Dataview/최근 변경.md",
     "생각/사회적합의.md",
     "생각/사회진화론.md",
-    "생각/경쟁 제일주의.md",
     "생각/문명.md",
     "생각/체제.md",
     "생각/언론.md",
@@ -295,11 +300,6 @@
     "asset/k8s_job_status.png",
     "생각/삼성 종특.md",
     "생각/감사.md",
-    "생각/선순환.md",
-    "생각/겉멋.md",
-    "생각/토론.md",
-    "생각/법.md",
-    "생각/규제.md",
     "asset/Luddite.png",
     "asset/ASCII - March of Progress.png",
     "asset/강간의 형식을 빌린 사랑 고백.png",
@@ -310,7 +310,6 @@
     "잡동사니",
     "asset/Pasted image 20250207115257.png",
     "asset/Job Result 판별.png",
-    "asset/BatchResult 판별.png",
     "asset/k8s_job_status.drawio",
     "asset/ROCKY영화포스터.webp.crdownload",
     "asset/예쁜 프롬프트.png.crdownload",

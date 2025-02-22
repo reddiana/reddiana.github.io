@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "749e0cafa241ca7d",
+        "id": "d8800a4a6fb43b4e",
         "type": "tabs",
         "children": [
           {
-            "id": "0d717186e484b6b5",
+            "id": "75c0a76d61e08e46",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "생각/꾸준함.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "꾸준함"
+              "title": "새 탭"
             }
           }
         ]
@@ -51,13 +37,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전산/인공지능.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "인공지능 의 개요"
+              "title": "개요"
             }
           },
           {
@@ -66,7 +51,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "생각/꾸준함.md",
+                "file": "잡동사니/ASCII art.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -76,11 +61,10 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "꾸준함 의 백링크"
+              "title": "ASCII art 의 백링크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "99d027a85074bb90",
@@ -129,7 +113,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "시스템",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -177,11 +161,13 @@
               "title": "최근 변경 그래프"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 267.5026054382324
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -268,36 +254,36 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "847f9bd18de11b3a",
+  "active": "75c0a76d61e08e46",
   "lastOpenFiles": [
-    "생각/道可道 非常道.md",
-    "생각/생명.md",
     "Dataview/최근 변경.md",
-    "생각/파렴치.md",
-    "생각/의협심.md",
-    "생각/야만.md",
-    "생각/문명.md",
-    "생각/거짓말.md",
-    "생각/지구공학.md",
-    "책, 영상 Journal/대구 - 마크 쿨란스키.md",
-    "책, 영상 Journal/록키.md",
-    "책, 영상 Journal/Tell all the truth but tell it slant.md",
-    "전산/애자일.md",
-    "전산/오픈소스.md",
-    "전산/코드리뷰.md",
-    "전산/Iterative 개발.md",
-    "templates/1. Frontmatter template.md",
-    "templates/2. Timestamp as a Permalink.md",
-    "templates/3. Facebook 포스트 Link.md",
-    "asset/한큐에.png",
-    "생각/트롤리 딜레마.md",
-    "생각/엘리트주의.md",
-    "생각/수학 교육.md",
-    "생각/경쟁 제일주의.md",
-    "생각/결과주의.md",
+    "잡동사니/ASCII art.md",
     "전산/인공지능.md",
+    "전산/코드리뷰.md",
+    "생각/군악대.md",
+    "생각/부작용.md",
+    "생각/인류에 큰 영향을 미친 인물.md",
+    "생각/사회적합의.md",
+    "책, 영상 Journal/Franz Kafka.md",
+    "생각/감사.md",
+    "생각/SNT.md",
+    "생각/있어 보이는 말 하기.md",
+    "생각/법.md",
+    "생각/생산성.md",
+    "생각/로봇.md",
+    "생각/파렴치.md",
+    "생각/토너대가리.md",
+    "전산/Project/Leo.md",
+    "생각/혼네.md",
+    "전산/애자일.md",
+    "생각/시스템.md",
+    "생각/탑다운.md",
+    "생각/삼성 종특.md",
+    "생각/꽌시.md",
+    "생각/체제.md",
+    "생각/생명.md",
+    "asset/한큐에.png",
     "asset/미국 수정헌법 제1조.png",
-    "안목.md",
     "asset/k8s_job_status.png",
     "asset/Luddite.png",
     "asset/ASCII - March of Progress.png",

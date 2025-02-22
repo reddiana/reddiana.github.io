@@ -32,5 +32,9 @@
   "anuppuccin-theme-settings@@anp-toggle-scrollbars": false,
   "anuppuccin-theme-settings@@anp-hide-status-bar": false,
   "anuppuccin-theme-settings@@anp-list-toggle": false,
-  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-red"
+  "anuppuccin-theme-settings@@anp-highlight-custom": "anp-highlight-red",
+  "anuppuccin-theme-settings@@anp-codeblock-numbers": true,
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-edit": "anp-codeblock-edit-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-preview": "anp-codeblock-preview-nowrap",
+  "anuppuccin-theme-settings@@anp-codeblock-wrap-hl-preview": "anp-codeblock-preview-hl-nowrap"
 }

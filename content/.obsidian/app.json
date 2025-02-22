@@ -10,5 +10,6 @@
   "newFileFolderPath": "Draft",
   "defaultViewMode": "preview",
   "newLinkFormat": "shortest",
-  "propertiesInDocument": "visible"
+  "propertiesInDocument": "visible",
+  "focusNewTab": false
 }

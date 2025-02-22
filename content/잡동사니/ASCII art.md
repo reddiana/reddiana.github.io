@@ -64,8 +64,22 @@ permalink: 2025.0207.2108.59
         ⠘⠓⠚
 ```
 ## Good Luck
-![[ASCII - Good Lcuk.png]] 
+![[ASCII - Good Lcuk.png]]
 ![[ASCII - Good Luck.txt]]
+%%
+```
+  ▄████  ▒█████   ▒█████  ▓█████▄     ██▓     █    ██  ▄████▄   ██ ▄█▀
+ ██▒ ▀█▒▒██▒  ██▒▒██▒  ██▒▒██▀ ██▌   ▓██▒     ██  ▓██▒▒██▀ ▀█   ██▄█▒
+▒██░▄▄▄░▒██░  ██▒▒██░  ██▒░██   █▌   ▒██░    ▓██  ▒██░▒▓█    ▄ ▓███▄░
+░▓█  ██▓▒██   ██░▒██   ██░░▓█▄   ▌   ▒██░    ▓▓█  ░██░▒▓▓▄ ▄██▒▓██ █▄
+░▒▓███▀▒░ ████▓▒░░ ████▓▒░░▒████▓    ░██████▒▒▒█████▓ ▒ ▓███▀ ░▒██▒ █▄
+ ░▒   ▒ ░ ▒░▒░▒░ ░ ▒░▒░▒░  ▒▒▓  ▒    ░ ▒░▓  ░░▒▓▒ ▒ ▒ ░ ░▒ ▒  ░▒ ▒▒ ▓▒
+  ░   ░   ░ ▒ ▒░   ░ ▒ ▒░  ░ ▒  ▒    ░ ░ ▒  ░░░▒░ ░ ░   ░  ▒   ░ ░▒ ▒░
+░ ░   ░ ░ ░ ░ ▒  ░ ░ ░ ▒   ░ ░  ░      ░ ░    ░░░ ░ ░ ░        ░ ░░ ░
+      ░     ░ ░      ░ ░     ░           ░  ░   ░     ░ ░      ░  ░
+                           ░                          ░
+```
+%%
 ## March of Progress
 [March of Progress - Wikipedia](https://en.wikipedia.org/wiki/March_of_Progress)
 [The March of Progress and the Fallacy of Progressive Evolution — On Verticality](https://www.onverticality.com/blog/march-of-progress)
@@ -110,6 +124,7 @@ permalink: 2025.0207.2108.59
 ```
 ![[ASCII - March of Progress.png]]
 ![[ASCII - March of Progress.txt]]
+
 %%
 ![[March of Progress.png]]
 %%

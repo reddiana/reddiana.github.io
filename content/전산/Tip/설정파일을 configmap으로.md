@@ -20,7 +20,6 @@ date: 2025-01-29
 # Manifest yaml
 ## configmap.yaml (예시) 
 실제 `application properties` 내용을 `data`의 `application.yaml` 항목에 기술한다.
-(비번을 왜 secret으로 안 뺐냐고 시비걸지 말자. 지금 삔트는 그게 아님. 필요하면 직접 하시라)
 ```yaml
 apiVersion: v1
 kind: ConfigMap
@@ -32,8 +31,8 @@ data:
     spring:  
       datasource:  
         url: jdbc:postgresql://myvm.mshome.net:5432/mydb  
-        username: postgres  
-        password: mypw007  
+        username: ${USERNAME}
+        password: ${PASSWORD}
         driver-class-name: org.postgresql.Driver  
       jpa:  
         ddl-auto: update  
@@ -83,8 +82,8 @@ applicationProperties:
   spring:  
     datasource:  
       url: jdbc:postgresql://myvm.mshome.net:5432/mydb  
-      username: postgres  
-      password: mypw007  
+      username: ${USERNAME}  
+      password: ${PASSWORD}  
       driver-class-name: org.postgresql.Driver  
     jpa:  
       ddl-auto: update  

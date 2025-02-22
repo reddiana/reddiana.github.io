@@ -10,11 +10,37 @@
           {
             "id": "ef70884805da91d9",
             "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "최근 변경"
+            }
+          },
+          {
+            "id": "15fdf078656987d2",
+            "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "전산/인공지능.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -31,7 +57,8 @@
               "title": "인공지능"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -269,9 +296,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ef70884805da91d9",
+  "active": "15fdf078656987d2",
   "lastOpenFiles": [
     "Dataview/최근 변경.md",
+    "전산/Tip/설정파일을 configmap으로.md",
+    "생각/거짓말.md",
     "전산/인공지능.md",
     "무제.md",
     "잡동사니/ASCII art.md",
@@ -295,8 +324,6 @@
     "생각/시스템.md",
     "생각/탑다운.md",
     "생각/삼성 종특.md",
-    "생각/꽌시.md",
-    "생각/체제.md",
     "asset/한큐에.png",
     "asset/미국 수정헌법 제1조.png",
     "asset/k8s_job_status.png",

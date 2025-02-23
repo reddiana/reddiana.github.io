@@ -80,9 +80,33 @@
               "icon": "lucide-file",
               "title": "道可道 非常道"
             }
+          },
+          {
+            "id": "ae5a972aad0ffcdb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "전산/인공지능.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "인공지능"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -321,7 +345,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "c0b41ae3ce52c7b6",
+  "active": "ae5a972aad0ffcdb",
   "lastOpenFiles": [
     "Dataview/최근 변경.md",
     "생각/道可道 非常道.md",

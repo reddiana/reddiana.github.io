@@ -63,7 +63,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "생각/창의성.md",
+                "file": "전산/인공지능.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -78,7 +78,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "창의성"
+              "title": "인공지능"
             }
           }
         ],
@@ -102,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "생각/창의성.md",
+                "file": "전산/인공지능.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "창의성 의 개요"
+              "title": "인공지능 의 개요"
             }
           },
           {
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "생각/창의성.md",
+                "file": "전산/인공지능.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "창의성 의 백링크"
+              "title": "인공지능 의 백링크"
             }
           }
         ],
@@ -323,9 +323,9 @@
   },
   "active": "da2e755b5efa2cea",
   "lastOpenFiles": [
+    "생각/창의성.md",
     "생각/의협심.md",
     "생각/자기 생산적 사회 체계이론.md",
-    "생각/창의성.md",
     "생각/사회적합의.md",
     "Dataview/최근 변경.md",
     "생각/궤변.md",

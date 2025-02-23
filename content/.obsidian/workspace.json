@@ -4,18 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "99ee76f108a7f289",
+        "id": "82c5c72e05051066",
         "type": "tabs",
         "children": [
           {
-            "id": "ef70884805da91d9",
+            "id": "d138239d6823f3b9",
             "type": "leaf",
             "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Dataview/최근 변경.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -34,13 +34,13 @@
             }
           },
           {
-            "id": "15fdf078656987d2",
+            "id": "5b7b5a5b509a17d5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전산/인공지능.md",
-                "mode": "preview",
+                "file": "생각/궤변.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,11 +54,35 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "인공지능"
+              "title": "궤변"
+            }
+          },
+          {
+            "id": "da2e755b5efa2cea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "생각/창의성.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "창의성"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전산/인공지능.md",
+                "file": "생각/창의성.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "인공지능 의 개요"
+              "title": "창의성 의 개요"
             }
           },
           {
@@ -93,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잡동사니/ASCII art.md",
+                "file": "생각/창의성.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,10 +127,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "ASCII art 의 백링크"
+              "title": "창의성 의 백링크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "99d027a85074bb90",
@@ -155,7 +180,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "시스템",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,7 +229,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -296,34 +321,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "15fdf078656987d2",
+  "active": "da2e755b5efa2cea",
   "lastOpenFiles": [
+    "생각/의협심.md",
+    "생각/자기 생산적 사회 체계이론.md",
+    "생각/창의성.md",
+    "생각/사회적합의.md",
     "Dataview/최근 변경.md",
+    "생각/궤변.md",
+    "생각/망사용료.md",
+    "생각/완전평면 브라운관 모니터.md",
+    "생각/토론.md",
+    "생각/거란문자.md",
+    "전산/인공지능.md",
+    "asset/넌인간을흉내낸기계일뿐이니까.png",
+    "생각/엘리트주의.md",
+    "생각/시스템.md",
+    "생각/파렴치.md",
+    "전산/공부/파이썬 기초 5종 세트.md",
+    "책, 영상 Journal/빅니스 - Tim Wu.md",
+    "생각/노예.md",
     "전산/Tip/설정파일을 configmap으로.md",
     "생각/거짓말.md",
-    "전산/인공지능.md",
     "무제.md",
     "잡동사니/ASCII art.md",
     "전산/코드리뷰.md",
     "생각/군악대.md",
     "생각/부작용.md",
     "생각/인류에 큰 영향을 미친 인물.md",
-    "생각/사회적합의.md",
     "책, 영상 Journal/Franz Kafka.md",
-    "생각/감사.md",
-    "생각/SNT.md",
-    "생각/있어 보이는 말 하기.md",
-    "생각/법.md",
-    "생각/생산성.md",
-    "생각/로봇.md",
-    "생각/파렴치.md",
-    "생각/토너대가리.md",
-    "전산/Project/Leo.md",
-    "생각/혼네.md",
-    "전산/애자일.md",
-    "생각/시스템.md",
-    "생각/탑다운.md",
-    "생각/삼성 종특.md",
     "asset/한큐에.png",
     "asset/미국 수정헌법 제1조.png",
     "asset/k8s_job_status.png",
@@ -336,7 +362,6 @@
     "asset/March of Progress.png",
     "잡동사니",
     "asset/Pasted image 20250207115257.png",
-    "asset/Job Result 판별.png",
     "asset/k8s_job_status.drawio",
     "asset/ROCKY영화포스터.webp.crdownload",
     "asset/예쁜 프롬프트.png.crdownload",

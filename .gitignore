@@ -1,6 +1,6 @@
 .DS_Store
 node_modules/
-docs/
+#docs/
 public/
 prof
 tsconfig.tsbuildinfo

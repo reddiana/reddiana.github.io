@@ -67,7 +67,8 @@ export const FrontMatter: QuartzTransformerPlugin<Partial<Options>> = (userOpts)
         [remarkFrontmatter, ["yaml", "toml"]],
         () => {
           return (_, file) => {
-            const { data } = matter(Buffer.from(file.value), {
+            const fileData = Buffer.from(file.value as Uint8Array)
+            const { data } = matter(fileData, {
               ...opts,
               engines: {
                 yaml: (s) => yaml.load(s, { schema: yaml.JSON_SCHEMA }) as object,
@@ -130,6 +131,7 @@ declare module "vfile" {
         created: string
         published: string
         description: string
+        socialDescription: string
         publish: boolean | string
         draft: boolean | string
         lang: string

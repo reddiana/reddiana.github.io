@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "reddiana.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", "Longform", "Dataview", "Excalidraw"],
-    defaultDateType: "modified", // "modified", // "created",
+    defaultDateType: "created", // "modified", // "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,

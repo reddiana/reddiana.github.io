@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "최근 변경"
             }
+          },
+          {
+            "id": "bb930cd0362dbc74",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -53,13 +78,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "최근 변경 의 개요"
+              "title": "index 의 개요"
             }
           },
           {
@@ -68,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "최근 변경 의 백링크"
+              "title": "index 의 백링크"
             }
           }
         ],
@@ -150,7 +175,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -178,14 +203,15 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "최근 변경 그래프"
+              "title": "index 그래프"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -255,7 +281,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 320.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,13 +298,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b91cf2b892641573",
+  "active": "bb930cd0362dbc74",
   "lastOpenFiles": [
-    "Longform/퍼뜩/Index.md",
-    "Longform/퍼뜩/약육강식은 파시즘의 기본 원리.md",
-    "Longform/퍼뜩/약자를 배려한다는 말은 잘못됐다.md",
-    "Longform/퍼뜩/양심.md",
     "Dataview/최근 변경.md",
+    "index.md",
+    "Longform/퍼뜩/양심.md",
+    "Longform/퍼뜩/약자를 배려한다는 말은 잘못됐다.md",
+    "Longform/퍼뜩/약육강식은 파시즘의 기본 원리.md",
+    "Longform/퍼뜩/Index.md",
     "생각/경쟁.md",
     "생각/양심.md",
     "파시즘.md",
@@ -288,7 +316,6 @@
     "생각/대한민국 갈등의 원인.md",
     "생각/삼성 종특.md",
     "생각/사회적합의.md",
-    "index.md",
     "생각/언론.md",
     "asset/When the Wrong Person Tells your Story.png",
     "생각/대놓고 거짓말.md",

@@ -32,19 +32,8 @@
               "icon": "lucide-file",
               "title": "최근 변경"
             }
-          },
-          {
-            "id": "b8f6b42b18154f12",
-            "type": "leaf",
-            "state": {
-              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
-              "state": {},
-              "icon": "longform",
-              "title": "Longform"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -196,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -283,15 +271,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b8f6b42b18154f12",
+  "active": "b91cf2b892641573",
   "lastOpenFiles": [
-    "생각/양심.md",
-    "생각/경쟁.md",
+    "Longform/퍼뜩/Index.md",
     "Longform/퍼뜩/약육강식은 파시즘의 기본 원리.md",
     "Longform/퍼뜩/약자를 배려한다는 말은 잘못됐다.md",
     "Longform/퍼뜩/양심.md",
     "Dataview/최근 변경.md",
-    "Longform/퍼뜩/Index.md",
+    "생각/경쟁.md",
+    "생각/양심.md",
     "파시즘.md",
     "Longform/퍼뜩",
     "Longform",

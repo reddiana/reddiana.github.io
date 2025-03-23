@@ -1,0 +1,82 @@
+{
+  "version": 3,
+  "projects": {},
+  "selectedDraftVaultPath": "Longform/퍼뜩/Index.md",
+  "userScriptFolder": null,
+  "sessionStorage": "data",
+  "sessions": [
+    {
+      "start": "2025-03-23T13:18:33.379Z",
+      "total": 40,
+      "drafts": {
+        "Logform/퍼뜩/Index.md": {
+          "total": 27,
+          "scenes": {
+            "약자를 배려한다는 말은 잘못됐다": 14,
+            "약육강식은 파시즘의 기본 원리": 13
+          }
+        },
+        "Longform/퍼뜩/Index.md": {
+          "total": 40,
+          "scenes": {
+            "약자를 배려한다는 말은 잘못됐다": 14,
+            "약육강식은 파시즘의 기본 원리": 13,
+            "양심": 13
+          }
+        }
+      }
+    }
+  ],
+  "showWordCountInStatusBar": true,
+  "startNewSessionEachDay": true,
+  "sessionGoal": 500,
+  "applyGoalTo": "all",
+  "notifyOnGoal": true,
+  "countDeletionsForGoal": false,
+  "keepSessionCount": 30,
+  "sessionFile": "longform-sessions.json",
+  "numberScenes": false,
+  "sceneTemplate": null,
+  "waitForSync": false,
+  "fallbackWaitEnabled": true,
+  "fallbackWaitTime": 5,
+  "workflows": {
+    "Default Workflow": {
+      "name": "Default Workflow",
+      "description": "A starter workflow. Feel free to edit, rename, or delete it and create your own.",
+      "steps": [
+        {
+          "id": "strip-frontmatter",
+          "optionValues": {}
+        },
+        {
+          "id": "remove-links",
+          "optionValues": {
+            "remove-wikilinks": true,
+            "remove-external-links": true
+          }
+        },
+        {
+          "id": "prepend-title",
+          "optionValues": {
+            "format": "$3{#} $1",
+            "separator": "\n\n"
+          }
+        },
+        {
+          "id": "concatenate-text",
+          "optionValues": {
+            "separator": "\\n\\n---\\n\\n"
+          }
+        },
+        {
+          "id": "write-to-note",
+          "optionValues": {
+            "target": "manuscript.md",
+            "open-after": true
+          }
+        }
+      ]
+    }
+  }
+}

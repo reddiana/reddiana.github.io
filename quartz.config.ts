@@ -18,7 +18,7 @@ const config: QuartzConfig = {
     locale: "en-US",
     baseUrl: "reddiana.github.io",
     ignorePatterns: ["private", "templates", ".obsidian", "Dataview", "Excalidraw"],
-    defaultDateType: "created", // "modified",
+    defaultDateType: "modified", // "modified", // "created",
     theme: {
       fontOrigin: "googleFonts",
       cdnCaching: true,
@@ -68,16 +68,12 @@ const config: QuartzConfig = {
       }),
       Plugin.ObsidianFlavoredMarkdown({ enableInHtmlEmbed: false }),
       Plugin.GitHubFlavoredMarkdown(),
-      Plugin.HardLineBreaks(),
       Plugin.TableOfContents(),
       Plugin.CrawlLinks({ markdownLinkResolution: "shortest" }),
       Plugin.Description(),
       Plugin.Latex({ renderEngine: "katex" }),
     ],
-    filters: [
-        //Plugin.RemoveDrafts(),
-        Plugin.ExplicitPublish(),
-    ],
+    filters: [Plugin.RemoveDrafts()],
     emitters: [
       Plugin.AliasRedirects(),
       Plugin.ComponentResources(),

@@ -1,6 +1,6 @@
-<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.0.9 Chrome/128.0.6613.186 Electron/32.2.5 Safari/537.36" version="26.0.9">
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/26.2.2 Chrome/134.0.6998.178 Electron/35.1.2 Safari/537.36" version="26.2.2">
   <diagram name="페이지-1" id="tSaSbtCgYNKAjAkbGOrd">
-    <mxGraphModel dx="2474" dy="1196" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2468" dy="1201" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -318,7 +318,7 @@
         <mxCell id="iifHgm0fl_9PNOj5Bv8E-83" value="&lt;div&gt;ErrImagePull&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;flipV=0;" parent="1" vertex="1">
           <mxGeometry x="1446" y="450" width="85" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="iifHgm0fl_9PNOj5Bv8E-84" value="&lt;div&gt;ImagePullBackOff&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;flipV=0;" parent="1" vertex="1">
+        <mxCell id="iifHgm0fl_9PNOj5Bv8E-84" value="&lt;div&gt;ImagePullErr&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;flipV=0;" parent="1" vertex="1">
           <mxGeometry x="1446" y="513" width="85" height="48" as="geometry" />
         </mxCell>
         <mxCell id="iifHgm0fl_9PNOj5Bv8E-85" value="&lt;div&gt;waiting_message&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fontFamily=Helvetica;fontSize=12;fontColor=default;labelBackgroundColor=none;strokeColor=#9673a6;align=center;verticalAlign=middle;fillColor=#e1d5e7;" parent="1" vertex="1">

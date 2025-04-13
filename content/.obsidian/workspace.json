@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "e3e6d2d0bc91a490",
+            "id": "2d2be8a3ee180e53",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "생각/결과주의.md",
+                "file": "전산/공부/K8s Job 단계 판별.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -54,10 +54,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "결과주의"
+              "title": "K8s Job 단계 판별"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "전산/공부/K8s Job 단계 판별.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "최근 변경 의 백링크"
+              "title": "K8s Job 단계 판별 의 백링크"
             }
           },
           {
@@ -220,7 +221,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -306,10 +308,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b91cf2b892641573",
+  "active": "2d2be8a3ee180e53",
   "lastOpenFiles": [
-    "생각/결과주의.md",
+    "_config.yml",
     "Dataview/최근 변경.md",
+    "생각/결과주의.md",
     "전산/공부/K8s Job 단계 판별.md",
     "생각/신뢰.md",
     "asset/Pasted image 20250411201703.png",
@@ -334,7 +337,6 @@
     "생각/삼성 종특.md",
     "index.md",
     "생각/경쟁.md",
-    "생각/양심.md",
     "Longform/퍼뜩",
     "Longform",
     "asset/When the Wrong Person Tells your Story.png",

@@ -39,7 +39,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전산/공부/K8s Job 단계 판별.md",
+                "file": "index.md",
                 "mode": "preview",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "K8s Job 단계 판별"
+              "title": "index"
             }
           }
         ],
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전산/공부/K8s Job 단계 판별.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "K8s Job 단계 판별 의 백링크"
+              "title": "index 의 백링크"
             }
           },
           {
@@ -216,8 +216,7 @@
               "title": "최근 변경 그래프"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -308,12 +307,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2d2be8a3ee180e53",
+  "active": "7a44a56ca1ca2b21",
   "lastOpenFiles": [
-    "_config.yml",
     "Dataview/최근 변경.md",
-    "생각/결과주의.md",
+    "index.md",
     "전산/공부/K8s Job 단계 판별.md",
+    "_config.yml",
+    "생각/결과주의.md",
     "생각/신뢰.md",
     "asset/Pasted image 20250411201703.png",
     "생각/대한민국 후진성.md",
@@ -335,7 +335,6 @@
     "전산/공부/유즈케이스.md",
     "생각/탑다운.md",
     "생각/삼성 종특.md",
-    "index.md",
     "생각/경쟁.md",
     "Longform/퍼뜩",
     "Longform",
@@ -355,7 +354,6 @@
     "asset/ROCKY영화포스터.webp.crdownload",
     "asset/예쁜 프롬프트.png.crdownload",
     "asset/CosmosAPersonalVoyage_archive.torrent",
-    "asset/CosmosAPersonalVoyage한국어자막.zip",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

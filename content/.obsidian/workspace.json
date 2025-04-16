@@ -32,33 +32,8 @@
               "icon": "lucide-file",
               "title": "최근 변경"
             }
-          },
-          {
-            "id": "2d2be8a3ee180e53",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "index.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Dataview/최근 변경.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +78,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 의 백링크"
+              "title": "최근 변경 의 백링크"
             }
           },
           {
@@ -307,8 +282,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7a44a56ca1ca2b21",
+  "active": "b91cf2b892641573",
   "lastOpenFiles": [
+    "생각/삼성 종특.md",
     "Dataview/최근 변경.md",
     "index.md",
     "전산/공부/K8s Job 단계 판별.md",
@@ -334,7 +310,6 @@
     "Longform/퍼뜩/약육강식은 파시즘의 기본 원리.md",
     "전산/공부/유즈케이스.md",
     "생각/탑다운.md",
-    "생각/삼성 종특.md",
     "생각/경쟁.md",
     "Longform/퍼뜩",
     "Longform",

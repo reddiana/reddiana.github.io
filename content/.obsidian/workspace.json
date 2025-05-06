@@ -143,7 +143,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "길",
+                "query": "김재섭",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -191,7 +191,8 @@
               "title": "최근 변경 그래프"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -284,8 +285,16 @@
   },
   "active": "b91cf2b892641573",
   "lastOpenFiles": [
-    "커뮤니케이션.md",
+    "낙수효과.md",
+    "asset/Capitalism_short_story.png",
+    "생각/트롤리 딜레마.md",
     "Dataview/최근 변경.md",
+    "asset/Actual_Trolley.png",
+    "생각/언론.md",
+    "asset/Pasted image 20250504141119.png",
+    "asset/Pasted image 20250501190722.png",
+    "Longform/퍼뜩/약육강식은 파시즘의 기본 원리.md",
+    "커뮤니케이션.md",
     "생각/인공지능.md",
     "생각/경쟁.md",
     "전산/Tip/Git.md",
@@ -307,11 +316,6 @@
     "책, 영상 Journal/대구 - 마크 쿨란스키.md",
     "책, 영상 Journal/록키.md",
     "전산/팔란티어.md",
-    "Longform/퍼뜩/Index.md",
-    "Longform/퍼뜩/법률.md",
-    "Longform/퍼뜩/양심.md",
-    "Longform/퍼뜩/약자를 배려한다는 말은 잘못됐다.md",
-    "Longform/퍼뜩/약육강식은 파시즘의 기본 원리.md",
     "Longform/퍼뜩",
     "Longform",
     "asset/When the Wrong Person Tells your Story.png",
@@ -319,10 +323,6 @@
     "asset/아침이 온다 - 복사본.png",
     "asset/Motivation vs. Discipline.png",
     "asset/Pasted image 20250228232812.png",
-    "asset/넌인간을흉내낸기계일뿐이니까.png",
-    "asset/한큐에.png",
-    "asset/미국 수정헌법 제1조.png",
-    "asset/k8s_job_status.png",
     "asset/ASCII - Good Luck.txt",
     "asset/ASCII - March of Progress.txt",
     "잡동사니",

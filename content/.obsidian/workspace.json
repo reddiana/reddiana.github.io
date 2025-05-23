@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "최근 변경"
             }
+          },
+          {
+            "id": "6dc2fe29ada6c453",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "생각/커뮤니케이션.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "커뮤니케이션"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,7 +70,7 @@
       {
         "id": "c49b403553ba9f7e",
         "type": "tabs",
-        "dimension": 31.962864721485413,
+        "dimension": 40.25270758122744,
         "children": [
           {
             "id": "c7b65189d88ef5c3",
@@ -68,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "Longform/퍼뜩/양심.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "최근 변경 의 백링크"
+              "title": "양심 의 백링크"
             }
           },
           {
@@ -92,12 +117,12 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       },
       {
         "id": "99d027a85074bb90",
         "type": "tabs",
-        "dimension": 68.03713527851458,
+        "dimension": 59.74729241877257,
         "children": [
           {
             "id": "847f9bd18de11b3a",
@@ -191,12 +216,11 @@
               "title": "최근 변경 그래프"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
+    "width": 334.5026054382324,
     "collapsed": true
   },
   "right": {
@@ -267,7 +291,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 320.5
+    "width": 471.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -283,46 +307,46 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b91cf2b892641573",
+  "active": "6dc2fe29ada6c453",
   "lastOpenFiles": [
-    "낙수효과.md",
-    "asset/Capitalism_short_story.png",
-    "생각/트롤리 딜레마.md",
+    "생각/道.md",
+    "생각/낙수효과.md",
     "Dataview/최근 변경.md",
+    "asset/Pasted image 20250511231505.png",
+    "asset/Pasted image 20250507215503.png",
+    "전산/Tip/설정파일을 configmap으로.md",
+    "생각/리더십.md",
+    "전산/Tip/예쁜 프롬프트.md",
+    "Longform/퍼뜩/인계철선.md",
+    "Longform/퍼뜩/무임승차.md",
+    "생각/인공지능.md",
+    "Longform/퍼뜩/양심.md",
+    "생각/야만.md",
+    "Longform/퍼뜩/뉴라이트.md",
+    "Longform/퍼뜩/법률.md",
+    "Longform/퍼뜩/약육강식은 파시즘의 기본 원리.md",
+    "Longform/퍼뜩/약자를 배려한다는 말은 잘못됐다.md",
+    "생각/엘리트주의.md",
+    "생각/대한민국 후진성.md",
+    "생각/트롤리 딜레마.md",
+    "생각/토너대가리.md",
+    "생각/거란문자.md",
+    "asset/Capitalism_short_story.png",
     "asset/Actual_Trolley.png",
     "생각/언론.md",
     "asset/Pasted image 20250504141119.png",
     "asset/Pasted image 20250501190722.png",
-    "Longform/퍼뜩/약육강식은 파시즘의 기본 원리.md",
-    "커뮤니케이션.md",
-    "생각/인공지능.md",
+    "생각/커뮤니케이션.md",
     "생각/경쟁.md",
     "전산/Tip/Git.md",
     "생각/삼성 종특.md",
-    "index.md",
-    "전산/공부/K8s Job 단계 판별.md",
     "_config.yml",
-    "생각/결과주의.md",
-    "생각/신뢰.md",
     "asset/Pasted image 20250411201703.png",
-    "생각/대한민국 후진성.md",
-    "생각/대한민국 갈등의 원인.md",
-    "생각/파렴치.md",
-    "생각/부작용.md",
-    "생각/거짓말.md",
-    "생각/가족제도.md",
-    "책, 영상 Journal/광기의 역사.md",
-    "책, 영상 Journal/나를 보내지 마.md",
-    "책, 영상 Journal/대구 - 마크 쿨란스키.md",
-    "책, 영상 Journal/록키.md",
-    "전산/팔란티어.md",
     "Longform/퍼뜩",
     "Longform",
     "asset/When the Wrong Person Tells your Story.png",
     "asset/아침이 온다.jpg",
     "asset/아침이 온다 - 복사본.png",
-    "asset/Motivation vs. Discipline.png",
-    "asset/Pasted image 20250228232812.png",
     "asset/ASCII - Good Luck.txt",
     "asset/ASCII - March of Progress.txt",
     "잡동사니",

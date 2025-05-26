@@ -24,3 +24,5 @@ git config log.follow true
 git config --global user.email "everlearningemployee@gmail.com"
 git config --global user.name "빨강달"
 ```
+
+![[gitGud.png]]

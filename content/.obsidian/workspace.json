@@ -32,33 +32,8 @@
               "icon": "lucide-file",
               "title": "최근 변경"
             }
-          },
-          {
-            "id": "6dc2fe29ada6c453",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "생각/커뮤니케이션.md",
-                "mode": "preview",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "커뮤니케이션"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -291,7 +266,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 471.5
+    "width": 324.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -307,14 +282,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "6dc2fe29ada6c453",
+  "active": "b91cf2b892641573",
   "lastOpenFiles": [
+    "전산/Tip/Git.md",
+    "asset/gitGud.png",
+    "Dataview/최근 변경.md",
+    "전산/Tip/설정파일을 configmap으로.md",
+    "생각/삼성 종특.md",
+    "생각/진영논리.md",
+    "asset/Pasted image 20250524115831.png",
+    "전산/공부/Producer-Consumer pattern vs. Publisher-Subscriber pattern.md",
+    "생각/커뮤니케이션.md",
     "생각/道.md",
     "생각/낙수효과.md",
-    "Dataview/최근 변경.md",
     "asset/Pasted image 20250511231505.png",
     "asset/Pasted image 20250507215503.png",
-    "전산/Tip/설정파일을 configmap으로.md",
     "생각/리더십.md",
     "전산/Tip/예쁜 프롬프트.md",
     "Longform/퍼뜩/인계철선.md",
@@ -336,17 +318,11 @@
     "생각/언론.md",
     "asset/Pasted image 20250504141119.png",
     "asset/Pasted image 20250501190722.png",
-    "생각/커뮤니케이션.md",
-    "생각/경쟁.md",
-    "전산/Tip/Git.md",
-    "생각/삼성 종특.md",
     "_config.yml",
     "asset/Pasted image 20250411201703.png",
     "Longform/퍼뜩",
     "Longform",
     "asset/When the Wrong Person Tells your Story.png",
-    "asset/아침이 온다.jpg",
-    "asset/아침이 온다 - 복사본.png",
     "asset/ASCII - Good Luck.txt",
     "asset/ASCII - March of Progress.txt",
     "잡동사니",

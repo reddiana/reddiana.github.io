@@ -24,5 +24,18 @@ git config log.follow true
 git config --global user.email "everlearningemployee@gmail.com"
 git config --global user.name "빨강달"
 ```
+### 내부 참조(reference)
+Git은 모든 브랜치, 태그, 리모트 참조 등을 .git/refs/ 디렉토리 아래에 계층적으로 저장한다. 주요 네임스페이스는 다음과 같다:
+- `refs/heads/`: 로컬 브랜치 (예: `refs/heads/main`은 `main` 브랜치).
+- `refs/tags/`: 태그 (예: `refs/tags/v1.0`은 `v1.0` 태그).
+- `refs/remotes/`: 리모트 레포지토리의 브랜치 (예: `refs/remotes/origin/main`은 `origin` 리모트의 `main` 브랜치).
+- 기타: `refs/notes/`, `refs/stash/` 등 특수 참조도 존재.
+#### 사용예
+- 
+```bash
+git checkout refs/heads/main
+git show-ref
+```
+- [[Kaniko]]의 ```--context=git://github.com/username/repository.git#refs/heads/main:subfolder```
 
 ![[gitGud.png]]

@@ -28,6 +28,7 @@ date: 2022-02-27
 - ['사고 뭉치' 전락 보잉...이번엔 비행 중 곤두박질 50명 부상 / YTN (youtube.com)](https://www.youtube.com/watch?v=ylE1jLZm54Q)
 - [보잉: 내부고발자 BBC 인터뷰...'공급 부품에 심각한 결함 존재' - BBC News 코리아](https://www.bbc.com/korean/articles/crgywpd243xo?fbclid=IwY2xjawFXQPpleHRuA2FlbQIxMAABHR85FfVRi_Iov_fuAbISZ4EVNW6h0AkdvLtMm7TVBcowAsKITku7zdi_aA_aem_eNI_VQLI94MOisbAjg2Gsg)
 - ['8일만 국제우주정거장에 있을 예정이었지만 2025년까지 갇혀있을 위기에 처한' 미국 우주비행사들 - BBC News 코리아](https://www.bbc.com/korean/articles/cly8rw7kywko?at_campaign_type=owned&at_format=link&at_bbc_team=editorial&at_campaign=Social_Flow&at_link_origin=BBC_news_Korean&at_ptr_name=facebook_page&at_link_type=web_link&at_link_id=A3EA0DEE-561F-11EF-AB1F-FDEAA51FE403&at_medium=social&fbclid=IwY2xjawFXQQFleHRuA2FlbQIxMAABHRkUTVJvLLixrHhTet8XdC_YZMpwpA3FFEdcDV8r8N-ZnV0VgRS0y18A9Q_aem_aHfpuXizNeRECNCQAhoSpw)
+- [보잉이 왜 나락으로 갔는지 알려주는 영상 (feat 보잉 엔지니어 내부고발)](https://www.youtube.com/watch?v=GskkYtS8lTc&ab_channel=%EB%9D%BC%EC%97%B0%EC%A7%80%EC%8B%9D)
 
 ## 연관
 - [[Bean Counter|Bean Counter]]

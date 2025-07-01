@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "c730266573cde367",
+            "id": "aa81043b0fc71a29",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -59,36 +59,6 @@
           }
         ],
         "currentTab": 1
-      },
-      {
-        "id": "d6dafd0c16aa1bcd",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "838450dc52019b11",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "생각/프로이트의 Ego 번역.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "프로이트의 Ego 번역"
-            }
-          }
-        ]
       }
     ],
     "direction": "vertical"
@@ -123,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Longform/퍼뜩/양심.md",
+                "file": "전산/Tip/Hazelcast를 사용한 분산락 구현.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "양심 의 백링크"
+              "title": "Hazelcast를 사용한 분산락 구현 의 백링크"
             }
           }
         ]
@@ -249,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.50260543823242
+    "width": 207.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -335,12 +306,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c730266573cde367",
+  "active": "aa81043b0fc71a29",
   "lastOpenFiles": [
-    "생각/프로이트의 Ego 번역.md",
-    "전산/Tip/Hazelcast를 사용한 분산락 구현.md",
-    "생각/자기 생산적 사회 체계이론.md",
     "Dataview/최근 변경.md",
+    "전산/Tip/Hazelcast를 사용한 분산락 구현.md",
+    "생각/프로이트의 Ego 번역.md",
+    "생각/자기 생산적 사회 체계이론.md",
     "asset/PaulMcCarthy-Tree.png",
     "asset/ROCKY영화포스터.webp",
     "asset/ROCKY영화포스터.png",

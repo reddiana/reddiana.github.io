@@ -4,7 +4,7 @@ tags:
 date: 2025-07-01
 permalink: 2025.0701.1816.22
 ---
-Hazelcast 5.5 버전부터 락 객체가 유료버전에서만 사용 가능하다.[^1] 아래 코드는 편법으로 Map의 아이템에 lock을 걸었다.
+Hazelcast 5.5 버전부터 락 객체가 유료버전에서만 사용 가능하다.[^1] 아래 코드는 편법으로 Map에 lock을 걸었다.
 ```java
 import com.hazelcast.core.HazelcastInstance;  
 import lombok.RequiredArgsConstructor;  
@@ -30,16 +30,16 @@ public class DistributedLockExecutor {
     }  
   
     private <T> T executeWithLock(String lockName, String logStr, Supplier<T> supplier) {  
-        var lock = hazelcastInstance.getMap(lockName);  
+        var lockMap = hazelcastInstance.getMap(lockName);  
         try {  
-            lock.lock(lockName);  
+            lockMap.lock(lockName);  
             log.info("Acquired lock: [{}][{}]", lockName, logStr);  
             return supplier.get();  
         } catch (Exception e) {  
             log.error("Error executing task with lock: {}", lockName, e);  
             throw e;  
         } finally {  
-            lock.unlock(lockName);  
+            lockMap.unlock(lockName);  
             log.info("Released lock: [{}][{}]", lockName, logStr);  
         }  
     }  
@@ -88,7 +88,7 @@ class DistributedLockExecutorTest {
              String logStr = "lockTest#2";  
              distributedLockExecutor.execute("testLock", logStr,  
                      () -> testRun(logStr));  
-             });  
+         });  
          thread2.start();  
   
          thread1.join();  

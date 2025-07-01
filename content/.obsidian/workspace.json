@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "d3ae31d526375409",
+            "id": "c730266573cde367",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "생각/Boeing.md",
+                "file": "전산/Tip/Hazelcast를 사용한 분산락 구현.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,11 +54,41 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Boeing"
+              "title": "Hazelcast를 사용한 분산락 구현"
             }
           }
         ],
         "currentTab": 1
+      },
+      {
+        "id": "d6dafd0c16aa1bcd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "838450dc52019b11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "생각/프로이트의 Ego 번역.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "프로이트의 Ego 번역"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -78,13 +108,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "생각/Boeing.md",
+                "file": "전산/Tip/Hazelcast를 사용한 분산락 구현.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Boeing 의 개요"
+              "title": "Hazelcast를 사용한 분산락 구현 의 개요"
             }
           },
           {
@@ -215,13 +245,11 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 334.5026054382324,
-    "collapsed": true
+    "width": 207.50260543823242
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -307,16 +335,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d3ae31d526375409",
+  "active": "c730266573cde367",
   "lastOpenFiles": [
-    "전산/공부/Kaniko.md",
+    "생각/프로이트의 Ego 번역.md",
+    "전산/Tip/Hazelcast를 사용한 분산락 구현.md",
+    "생각/자기 생산적 사회 체계이론.md",
     "Dataview/최근 변경.md",
+    "asset/PaulMcCarthy-Tree.png",
+    "asset/ROCKY영화포스터.webp",
+    "asset/ROCKY영화포스터.png",
+    "asset/Pasted image 20250107025132.png",
+    "asset/Pasted image 20241229141217.png",
+    "asset/Pasted image 20241229111841.png",
+    "asset/Pasted image 20250109135917.png",
+    "전산/공부/K8s Job 단계 판별.md",
+    "asset/k8s_job_status.drawio",
+    "생각/Boeing.md",
+    "생각/언론.md",
+    "전산/공부/Kaniko.md",
     "전산/Testability.md",
     "전산/Test.md",
-    "생각/Boeing.md",
     "Testability.md",
     "전산/아키텍처 문서화.md",
-    "생각/언론.md",
     "asset/Pasted image 20250608175018.png",
     "asset/Pasted image 20250604211842.png",
     "asset/Pasted image 20250603215051.png",
@@ -324,34 +364,22 @@
     "생각/독과점.md",
     "생각/기업권력.md",
     "책, 영상 Journal/빅니스 - Tim Wu.md",
-    "asset/gitGud.png",
     "전산/Tip/설정파일을 configmap으로.md",
     "생각/삼성 종특.md",
     "생각/진영논리.md",
-    "asset/Pasted image 20250524115831.png",
     "전산/공부/Producer-Consumer pattern vs. Publisher-Subscriber pattern.md",
     "생각/커뮤니케이션.md",
     "생각/道.md",
     "생각/낙수효과.md",
-    "asset/Pasted image 20250511231505.png",
-    "asset/Pasted image 20250507215503.png",
     "생각/리더십.md",
     "전산/Tip/예쁜 프롬프트.md",
     "Longform/퍼뜩/인계철선.md",
-    "Longform/퍼뜩/무임승차.md",
-    "생각/인공지능.md",
-    "Longform/퍼뜩/양심.md",
-    "생각/야만.md",
-    "asset/Capitalism_short_story.png",
-    "asset/Actual_Trolley.png",
-    "asset/Pasted image 20250504141119.png",
     "_config.yml",
     "Longform/퍼뜩",
     "Longform",
     "asset/ASCII - Good Luck.txt",
     "asset/ASCII - March of Progress.txt",
     "잡동사니",
-    "asset/k8s_job_status.drawio",
     "asset/ROCKY영화포스터.webp.crdownload",
     "asset/예쁜 프롬프트.png.crdownload",
     "asset/CosmosAPersonalVoyage_archive.torrent",

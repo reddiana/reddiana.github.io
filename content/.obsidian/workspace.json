@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "aa81043b0fc71a29",
+            "id": "e4a720903e0b23a9",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -306,7 +306,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "aa81043b0fc71a29",
+  "active": "e4a720903e0b23a9",
   "lastOpenFiles": [
     "Dataview/최근 변경.md",
     "전산/Tip/Hazelcast를 사용한 분산락 구현.md",

@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "e4a720903e0b23a9",
+            "id": "761716f7b6715f7f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전산/Tip/Hazelcast를 사용한 분산락 구현.md",
+                "file": "전산/공부/K8s Job 단계 판별.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hazelcast를 사용한 분산락 구현"
+              "title": "K8s Job 단계 판별"
             }
           }
         ],
@@ -290,7 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 324.5
+    "width": 401.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,10 +306,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e4a720903e0b23a9",
+  "active": "7a44a56ca1ca2b21",
   "lastOpenFiles": [
+    "전산/Tip/Hazelcast를 사용한 distributed lock 구현.md",
     "Dataview/최근 변경.md",
-    "전산/Tip/Hazelcast를 사용한 분산락 구현.md",
+    "전산/공부/K8s Job 단계 판별.md",
     "생각/프로이트의 Ego 번역.md",
     "생각/자기 생산적 사회 체계이론.md",
     "asset/PaulMcCarthy-Tree.png",
@@ -319,7 +320,6 @@
     "asset/Pasted image 20241229141217.png",
     "asset/Pasted image 20241229111841.png",
     "asset/Pasted image 20250109135917.png",
-    "전산/공부/K8s Job 단계 판별.md",
     "asset/k8s_job_status.drawio",
     "생각/Boeing.md",
     "생각/언론.md",

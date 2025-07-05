@@ -4,8 +4,8 @@ tags:
 date: 2025-07-01
 permalink: 2025.0701.1816.22
 ---
-Hazelcast 5.5 버전부터 락 객체가 유료버전에서만 사용 가능하다.[^1] 아래 코드는 편법으로 Map에 lock을 걸었다.
-Spring AOP는 public 메소드에만 적용가능하기 때문에 람다 메소드를 사용함.
+Hazelcast 5.5 버전부터 Lock 객체가 유료버전에서만 사용 가능하다.[^1] 아래 코드는 Map[^2]에 lock을 걸었다.
+람다 메소드를 사용하여 공통모듈로 만듬. Spring AOP가 편리한데 public 메소드에만 적용가능하기 때문에 제외
 ```java
 import com.hazelcast.core.HazelcastInstance;  
 import lombok.RequiredArgsConstructor;  
@@ -177,3 +177,4 @@ Hello, lockTest#1! This is message number 10
 ```
 
 [^1]: https://docs.hazelcast.com/hazelcast/5.5/data-structures/fencedlock
+[^2]: https://docs.hazelcast.com/hazelcast/5.5/data-structures/locking-maps

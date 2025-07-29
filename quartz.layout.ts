@@ -70,12 +70,12 @@ export const defaultContentPageLayout: PageLayout = {
         drag: true,
         zoom: true,
         depth: -1,
-        scale: 0.9, // 0.9,
-        // repelForce: 0.6,
-        //centerForce: 1.0, // 0.3,
-        //linkDistance: 80, // 30,
+        scale: 0.7, // 0.9,
+        repelForce: 2,
+        centerForce: 0.1, // 0.3, // <-----
+        //linkDistance: 20, // 30,
         // fontSize: 0.8,
-        opacityScale: 2, // 1,
+        opacityScale: 4, // 1,
         // removeTags: [], // what tags to remove from the graph
 		    removeTags: ["관리페이지"],
         showTags: false, // true, // whether to show tags in the graph

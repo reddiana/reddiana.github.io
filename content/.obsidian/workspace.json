@@ -39,8 +39,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전산/Tip/Hazelcast를 사용한 distributed lock 구현.md",
-                "mode": "preview",
+                "file": "생각/인공지능.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Hazelcast를 사용한 distributed lock 구현"
+              "title": "인공지능"
             }
           }
         ],
@@ -78,13 +78,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/최근 변경.md",
-                "followCursor": false,
+                "file": "생각/인공지능.md",
+                "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "최근 변경 의 개요"
+              "title": "인공지능 의 개요"
             }
           },
           {
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전산/Tip/Hazelcast를 사용한 분산락 구현.md",
+                "file": "index.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Hazelcast를 사용한 분산락 구현 의 백링크"
+              "title": "index 의 백링크"
             }
           }
         ]
@@ -120,7 +120,7 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": true
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "파일 탐색기"
@@ -174,7 +174,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "전산/아키텍처 문서화.md",
+                "file": "index.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -202,7 +202,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "아키텍처 문서화 그래프"
+              "title": "index 그래프"
             }
           },
           {
@@ -215,8 +215,7 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -309,7 +308,10 @@
   },
   "active": "b392e1b8697c4a55",
   "lastOpenFiles": [
+    "index.md",
+    "전산/팔란티어.md",
     "Dataview/최근 변경.md",
+    "전산/Tip/Hazelcast를 사용한 distributed lock 구현.md",
     "전산/Testability.md",
     "생각/道.md",
     "생각/언론.md",
@@ -320,12 +322,10 @@
     "생각/대놓고 거짓말.md",
     "생각/에리히 프롬 - 사랑의 기술.md",
     "생각/징벌적배상제.md",
-    "전산/팔란티어.md",
     "전산/공부/Kaniko.md",
     "전산/공부/Producer-Consumer pattern vs. Publisher-Subscriber pattern.md",
     "전산/Tip/Git.md",
     "전산/아키텍처 문서화.md",
-    "전산/Tip/Hazelcast를 사용한 distributed lock 구현.md",
     "전산/공부/K8s Job 단계 판별.md",
     "생각/프로이트의 Ego 번역.md",
     "생각/자기 생산적 사회 체계이론.md",
@@ -345,7 +345,6 @@
     "asset/Pasted image 20250603215051.png",
     "생각/독과점.md",
     "생각/기업권력.md",
-    "책, 영상 Journal/빅니스 - Tim Wu.md",
     "_config.yml",
     "Longform/퍼뜩",
     "Longform",

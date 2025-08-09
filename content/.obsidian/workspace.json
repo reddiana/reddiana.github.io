@@ -290,7 +290,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 401.5
+    "width": 303.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -306,7 +306,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b392e1b8697c4a55",
+  "active": "7a44a56ca1ca2b21",
   "lastOpenFiles": [
     "index.md",
     "전산/팔란티어.md",

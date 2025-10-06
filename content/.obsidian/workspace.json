@@ -56,9 +56,33 @@
               "icon": "lucide-file",
               "title": "수리생물학"
             }
+          },
+          {
+            "id": "c5b5bc91d5752165",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "책, 영상 Journal/아웃라이어.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "아웃라이어"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -78,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "책, 영상 Journal/수리생물학.md",
+                "file": "책, 영상 Journal/아웃라이어.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "수리생물학 의 개요"
+              "title": "아웃라이어 의 개요"
             }
           },
           {
@@ -182,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.50260543823242,
-    "collapsed": true
+    "width": 207.50260543823242
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -271,10 +294,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3607b9e37824dc70",
+  "active": "c5b5bc91d5752165",
   "lastOpenFiles": [
-    "Dataview/최근 변경.md",
+    "책, 영상 Journal/가즈오 이시구로.md",
+    "책, 영상 Journal/아웃라이어.md",
     "책, 영상 Journal/수리생물학.md",
+    "Dataview/최근 변경.md",
     "asset/수학은_우리의_직관을_넘어선_길을_보여준다_1.png",
     "asset/수학은_우리의_직관을_넘어선_길을_보여준다_2.png",
     "책, 영상 Journal/COSMOS.md",
@@ -299,7 +324,6 @@
     "전산/Testability.md",
     "생각/언론.md",
     "생각/결과주의.md",
-    "생각/공리주의.md",
     "asset/PaulMcCarthy-Tree.png",
     "asset/ROCKY영화포스터.webp",
     "asset/ROCKY영화포스터.png",

@@ -128,3 +128,5 @@ permalink: 2025.0207.2108.59
 %%
 ![[March of Progress.png]]
 %%
+
+![코딩 고수처럼 보이는 ASCII 렌더링](https://www.youtube.com/watch?v=8tGIj076_8Q)

@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "3607b9e37824dc70",
+            "id": "f50229c4009a20fb",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "책, 영상 Journal/수리생물학.md",
+                "file": "전산/팔란티어.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,35 +54,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "수리생물학"
-            }
-          },
-          {
-            "id": "c5b5bc91d5752165",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "책, 영상 Journal/아웃라이어.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "아웃라이어"
+              "title": "팔란티어"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -102,13 +77,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "책, 영상 Journal/아웃라이어.md",
+                "file": "전산/공부/Producer-Consumer pattern vs. Publisher-Subscriber pattern.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "아웃라이어 의 개요"
+              "title": "Producer-Consumer pattern vs. Publisher-Subscriber pattern 의 개요"
             }
           },
           {
@@ -206,7 +181,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.50260543823242
+    "width": 207.50260543823242,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -294,36 +270,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c5b5bc91d5752165",
+  "active": "bf03f797770b4e2a",
   "lastOpenFiles": [
-    "책, 영상 Journal/가즈오 이시구로.md",
-    "책, 영상 Journal/아웃라이어.md",
-    "책, 영상 Journal/수리생물학.md",
+    "전산/팔란티어.md",
     "Dataview/최근 변경.md",
+    "전산/공부/Batch Sequential va. Pipe and Filter Flow.md",
+    "전산/공부/Producer-Consumer pattern vs. Publisher-Subscriber pattern.md",
+    "잡동사니/호랑이.md",
+    "생각/대한민국 후진성.md",
+    "생각/내셔널리즘.md",
+    "생각/근묵자흑.md",
+    "잡동사니/군악대.md",
+    "생각/국가.md",
+    "생각/교육.md",
+    "생각/공리주의.md",
+    "생각/경쟁 제일주의.md",
+    "생각/결과주의.md",
+    "생각/겉멋.md",
+    "생각/검찰.md",
+    "생각/거짓말.md",
+    "생각/거란문자.md",
+    "생각/감사.md",
+    "생각/가치.md",
+    "생각/가족제도.md",
+    "잡동사니/ASCII art.md",
+    "잡동사니/피라미드.md",
+    "잡동사니/지구공학.md",
+    "잡동사니/봉창.md",
+    "생각/화분.md",
+    "asset/tiger_jump_18_feet.png",
     "asset/수학은_우리의_직관을_넘어선_길을_보여준다_1.png",
     "asset/수학은_우리의_직관을_넘어선_길을_보여준다_2.png",
-    "책, 영상 Journal/COSMOS.md",
-    "전산/Tip/설정파일을 configmap으로.md",
-    "전산/Tip/Hazelcast를 사용한 distributed lock 구현.md",
-    "생각/道.md",
-    "전산/공부/Producer-Consumer pattern vs. Publisher-Subscriber pattern.md",
-    "전산/공부/Kaniko.md",
-    "전산/Tip/Git.md",
-    "지속가능성.md",
-    "생각/선순환.md",
-    "생각/생산성.md",
-    "생각/Boeing.md",
-    "생각/문명.md",
-    "생각/꾸준함.md",
-    "기버링크.md",
-    "생각/인공지능.md",
-    "생각/거란문자.md",
-    "전산/팔란티어.md",
-    "책, 영상 Journal/광기의 역사.md",
-    "index.md",
-    "전산/Testability.md",
-    "생각/언론.md",
-    "생각/결과주의.md",
     "asset/PaulMcCarthy-Tree.png",
     "asset/ROCKY영화포스터.webp",
     "asset/ROCKY영화포스터.png",
@@ -332,7 +309,6 @@
     "asset/Pasted image 20241229111841.png",
     "asset/Pasted image 20250109135917.png",
     "asset/k8s_job_status.drawio",
-    "asset/Pasted image 20250608175018.png",
     "_config.yml",
     "Longform/퍼뜩",
     "Longform",

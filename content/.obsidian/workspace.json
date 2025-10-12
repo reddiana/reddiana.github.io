@@ -56,8 +56,33 @@
               "icon": "lucide-file",
               "title": "팔란티어"
             }
+          },
+          {
+            "id": "a961a7fa1a7ad1fa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "효율제일주의.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "효율제일주의"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -77,13 +102,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전산/공부/Producer-Consumer pattern vs. Publisher-Subscriber pattern.md",
+                "file": "효율제일주의.md",
                 "followCursor": true,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Producer-Consumer pattern vs. Publisher-Subscriber pattern 의 개요"
+              "title": "효율제일주의 의 개요"
             }
           },
           {
@@ -181,8 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 207.50260543823242,
-    "collapsed": true
+    "width": 207.50260543823242
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -270,10 +294,14 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf03f797770b4e2a",
+  "active": "a961a7fa1a7ad1fa",
   "lastOpenFiles": [
-    "전산/팔란티어.md",
+    "생각/공리주의.md",
+    "생각/경쟁 제일주의.md",
+    "생각/결과주의.md",
+    "효율제일주의.md",
     "Dataview/최근 변경.md",
+    "전산/팔란티어.md",
     "전산/공부/Batch Sequential va. Pipe and Filter Flow.md",
     "전산/공부/Producer-Consumer pattern vs. Publisher-Subscriber pattern.md",
     "잡동사니/호랑이.md",
@@ -283,9 +311,6 @@
     "잡동사니/군악대.md",
     "생각/국가.md",
     "생각/교육.md",
-    "생각/공리주의.md",
-    "생각/경쟁 제일주의.md",
-    "생각/결과주의.md",
     "생각/겉멋.md",
     "생각/검찰.md",
     "생각/거짓말.md",
@@ -297,7 +322,6 @@
     "잡동사니/피라미드.md",
     "잡동사니/지구공학.md",
     "잡동사니/봉창.md",
-    "생각/화분.md",
     "asset/tiger_jump_18_feet.png",
     "asset/수학은_우리의_직관을_넘어선_길을_보여준다_1.png",
     "asset/수학은_우리의_직관을_넘어선_길을_보여준다_2.png",

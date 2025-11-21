@@ -53,13 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "asset/경복궁재개발.png",
+                "file": "Dataview/최근 변경.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "경복궁재개발 의 개요"
+              "title": "최근 변경 의 개요"
             }
           },
           {
@@ -81,8 +81,7 @@
               "title": "최근 변경 의 백링크"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "99d027a85074bb90",
@@ -249,8 +248,10 @@
   "active": "bf03f797770b4e2a",
   "lastOpenFiles": [
     "생각/언론.md",
-    "asset/사실적시_명예회손_인생.png",
+    "생각/파렴치.md",
+    "생각/대놓고 거짓말.md",
     "Dataview/최근 변경.md",
+    "asset/사실적시_명예회손_인생.png",
     "asset/경복궁재개발.png",
     "asset/리밸런싱 사례.png",
     "asset/로마인이야기_주인집애들과_같이_교육받는_노예아이.png",
@@ -282,7 +283,6 @@
     "생각/효율제일주의.md",
     "생각/화분.md",
     "잡동사니/현대미술.md",
-    "생각/HD현대중공업.md",
     "asset/k8s_job_status.drawio",
     "_config.yml",
     "Longform/퍼뜩",

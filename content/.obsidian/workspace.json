@@ -45,7 +45,7 @@
       {
         "id": "c49b403553ba9f7e",
         "type": "tabs",
-        "dimension": 45.57761732851986,
+        "dimension": 35.83032490974729,
         "children": [
           {
             "id": "c7b65189d88ef5c3",
@@ -53,13 +53,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "asset/경복궁재개발.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "최근 변경 의 개요"
+              "title": "경복궁재개발 의 개요"
             }
           },
           {
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "index.md",
+                "file": "Dataview/최근 변경.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,15 +78,16 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "index 의 백링크"
+              "title": "최근 변경 의 백링크"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "99d027a85074bb90",
         "type": "tabs",
-        "dimension": 54.42238267148014,
+        "dimension": 64.16967509025271,
         "children": [
           {
             "id": "847f9bd18de11b3a",
@@ -157,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5026054382324,
-    "collapsed": true
+    "width": 295.5026054382324
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -248,26 +248,28 @@
   },
   "active": "bf03f797770b4e2a",
   "lastOpenFiles": [
-    "책, 영상 Journal/가즈오 이시구로.md",
+    "생각/언론.md",
+    "asset/사실적시_명예회손_인생.png",
     "Dataview/최근 변경.md",
-    "생각/진영논리.md",
-    "asset/Pasted image 20250524115831.png",
-    "asset/Pasted image 20250207115257.png",
-    "asset/Pasted image 20250109135917.png",
-    "asset/Pasted image 20241229141217.png",
-    "asset/Pasted image 20241229111841.png",
+    "asset/경복궁재개발.png",
+    "asset/리밸런싱 사례.png",
+    "asset/로마인이야기_주인집애들과_같이_교육받는_노예아이.png",
+    "asset/넌인간을흉내낸기계일뿐이니까.png",
+    "asset/나만 일해.png",
     "asset/When the Wrong Person Tells your Story.png",
     "asset/tiger_jump_18_feet.png",
-    "asset/Tell all the truth but tell it slant.png",
     "asset/Survivorship bias.png",
     "asset/ROCKY영화포스터.png",
+    "생각/대한민국 후진성.md",
+    "전산/팔란티어.md",
+    "전산/Tip/알고 있었나요.md",
+    "책, 영상 Journal/가즈오 이시구로.md",
+    "생각/진영논리.md",
     "책, 영상 Journal/Tell all the truth but tell it slant.md",
     "책, 영상 Journal/COSMOS - 칼 세이건.md",
     "책, 영상 Journal/나를 보내지 마 - 가즈오 이시구로.md",
     "책, 영상 Journal/아웃라이어 - 말콤 드래드웰.md",
-    "전산/팔란티어.md",
     "전산/Tip/설정파일을 configmap으로.md",
-    "전산/Tip/알고 있었나요.md",
     "전산/Tip/예쁜 프롬프트.md",
     "전산/Tip/Git.md",
     "전산/Tip/Spring Boot AutoConfiguration.imports.md",
@@ -281,9 +283,6 @@
     "생각/화분.md",
     "잡동사니/현대미술.md",
     "생각/HD현대중공업.md",
-    "생각/공리주의.md",
-    "생각/경쟁 제일주의.md",
-    "생각/결과주의.md",
     "asset/k8s_job_status.drawio",
     "_config.yml",
     "Longform/퍼뜩",

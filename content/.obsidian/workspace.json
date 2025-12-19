@@ -16,7 +16,7 @@
               "state": {
                 "file": "Dataview/최근 변경.md",
                 "mode": "preview",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -32,8 +32,33 @@
               "icon": "lucide-file",
               "title": "최근 변경"
             }
+          },
+          {
+            "id": "d727ee60d4eefa66",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "전산/Tip/Pandas SQL.md",
+                "mode": "preview",
+                "source": true,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "Pandas SQL"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -45,7 +70,7 @@
       {
         "id": "c49b403553ba9f7e",
         "type": "tabs",
-        "dimension": 35.83032490974729,
+        "dimension": 45.67164179104478,
         "children": [
           {
             "id": "c7b65189d88ef5c3",
@@ -53,13 +78,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "전산/Tip/Pandas SQL.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "최근 변경 의 개요"
+              "title": "Pandas SQL 의 개요"
             }
           },
           {
@@ -68,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "잡동사니/호랑이.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -78,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "최근 변경 의 백링크"
+              "title": "호랑이 의 백링크"
             }
           }
         ]
@@ -86,7 +111,7 @@
       {
         "id": "99d027a85074bb90",
         "type": "tabs",
-        "dimension": 64.16967509025271,
+        "dimension": 54.328358208955216,
         "children": [
           {
             "id": "847f9bd18de11b3a",
@@ -157,7 +182,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 295.5026054382324
+    "width": 351
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -228,7 +253,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5
+    "width": 303.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -245,12 +271,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf03f797770b4e2a",
+  "active": "d727ee60d4eefa66",
   "lastOpenFiles": [
+    "전산/Pandas SQL.md",
+    "Dataview/최근 변경.md",
+    "전산/Tip/Pandas SQL.md",
+    "전산/2020-08-23-SQL_vs_pandas.md",
+    "전산/Tip/알고 있었나요.md",
+    "잡동사니/호랑이.md",
     "생각/언론.md",
     "생각/파렴치.md",
     "생각/대놓고 거짓말.md",
-    "Dataview/최근 변경.md",
     "asset/사실적시_명예회손_인생.png",
     "asset/경복궁재개발.png",
     "asset/리밸런싱 사례.png",
@@ -263,7 +294,6 @@
     "asset/ROCKY영화포스터.png",
     "생각/대한민국 후진성.md",
     "전산/팔란티어.md",
-    "전산/Tip/알고 있었나요.md",
     "책, 영상 Journal/가즈오 이시구로.md",
     "생각/진영논리.md",
     "책, 영상 Journal/Tell all the truth but tell it slant.md",
@@ -276,13 +306,9 @@
     "전산/Tip/Spring Boot AutoConfiguration.imports.md",
     "전산/Tip/Hazelcast를 활용한 distributed lock 공통모듈.md",
     "전산/공부/Batch Sequential va. Pipe and Filter Flow.md",
-    "잡동사니/호랑이.md",
     "생각/내셔널리즘.md",
-    "전산/Pandas SQL.md",
     "생각/망사용료.md",
     "생각/효율제일주의.md",
-    "생각/화분.md",
-    "잡동사니/현대미술.md",
     "asset/k8s_job_status.drawio",
     "_config.yml",
     "Longform/퍼뜩",

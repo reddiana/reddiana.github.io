@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "4f6ea3e677ee125f",
+        "id": "4feb7723b811ef3c",
         "type": "tabs",
         "children": [
           {
@@ -15,8 +15,8 @@
               "type": "markdown",
               "state": {
                 "file": "Dataview/최근 변경.md",
-                "mode": "preview",
-                "source": true,
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -34,14 +34,14 @@
             }
           },
           {
-            "id": "d727ee60d4eefa66",
+            "id": "865241a7f3a54fb2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전산/Tip/Pandas SQL.md",
-                "mode": "preview",
-                "source": true,
+                "file": "전산/공부/Batch Sequential vs. Pipe and Filter Flow.md",
+                "mode": "source",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -54,11 +54,34 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Pandas SQL"
+              "title": "Batch Sequential vs. Pipe and Filter Flow"
+            }
+          },
+          {
+            "id": "5fed855a91d5246a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "책, 영상 Journal/COSMOS - 칼 세이건.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "COSMOS - 칼 세이건"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +93,7 @@
       {
         "id": "c49b403553ba9f7e",
         "type": "tabs",
-        "dimension": 45.67164179104478,
+        "dimension": 32.83582089552239,
         "children": [
           {
             "id": "c7b65189d88ef5c3",
@@ -78,13 +101,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전산/Tip/Pandas SQL.md",
+                "file": "Dataview/최근 변경.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Pandas SQL 의 개요"
+              "title": "최근 변경 의 개요"
             }
           },
           {
@@ -93,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "잡동사니/호랑이.md",
+                "file": "Dataview/최근 변경.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +126,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "호랑이 의 백링크"
+              "title": "최근 변경 의 백링크"
             }
           }
         ]
@@ -111,7 +134,7 @@
       {
         "id": "99d027a85074bb90",
         "type": "tabs",
-        "dimension": 54.328358208955216,
+        "dimension": 67.16417910447761,
         "children": [
           {
             "id": "847f9bd18de11b3a",
@@ -182,7 +205,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351
+    "width": 407.00418853759766
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -253,8 +276,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 303.5,
-    "collapsed": true
+    "width": 612
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -271,33 +293,37 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d727ee60d4eefa66",
+  "active": "bf03f797770b4e2a",
   "lastOpenFiles": [
-    "전산/Pandas SQL.md",
+    "책, 영상 Journal/COSMOS - 칼 세이건.md",
+    "asset/CosmosAPersonalVoyage_archive.torrent",
     "Dataview/최근 변경.md",
-    "전산/Tip/Pandas SQL.md",
-    "전산/2020-08-23-SQL_vs_pandas.md",
+    "전산/공부/Batch Sequential vs. Pipe and Filter Flow.md",
+    "전산/공부/Batch Sequentail vs. Pipe and Filter.svg",
     "전산/Tip/알고 있었나요.md",
-    "잡동사니/호랑이.md",
+    "전산/Tip/Pandas SQL.md",
+    "asset/ROCKY영화포스터.webp",
+    "asset/Pasted image 20250109141547.png",
+    "asset/Pasted image 20250109135917.png",
+    "asset/Pasted image 20250107025132.png",
+    "asset/Pasted image 20250103125731.png",
+    "asset/Pasted image 20250102142647.png",
+    "asset/Pasted image 20241230011041.png",
+    "asset/Pasted image 20241229141217.png",
+    "asset/Pasted image 20241229111841.png",
+    "전산/오픈소스.md",
+    "asset/k8s_job_status.drawio",
     "생각/언론.md",
+    "전산/Pandas SQL.md",
+    "전산/2020-08-23-SQL_vs_pandas.md",
+    "잡동사니/호랑이.md",
     "생각/파렴치.md",
     "생각/대놓고 거짓말.md",
-    "asset/사실적시_명예회손_인생.png",
-    "asset/경복궁재개발.png",
-    "asset/리밸런싱 사례.png",
-    "asset/로마인이야기_주인집애들과_같이_교육받는_노예아이.png",
-    "asset/넌인간을흉내낸기계일뿐이니까.png",
-    "asset/나만 일해.png",
-    "asset/When the Wrong Person Tells your Story.png",
-    "asset/tiger_jump_18_feet.png",
-    "asset/Survivorship bias.png",
-    "asset/ROCKY영화포스터.png",
     "생각/대한민국 후진성.md",
     "전산/팔란티어.md",
     "책, 영상 Journal/가즈오 이시구로.md",
     "생각/진영논리.md",
     "책, 영상 Journal/Tell all the truth but tell it slant.md",
-    "책, 영상 Journal/COSMOS - 칼 세이건.md",
     "책, 영상 Journal/나를 보내지 마 - 가즈오 이시구로.md",
     "책, 영상 Journal/아웃라이어 - 말콤 드래드웰.md",
     "전산/Tip/설정파일을 configmap으로.md",
@@ -305,11 +331,7 @@
     "전산/Tip/Git.md",
     "전산/Tip/Spring Boot AutoConfiguration.imports.md",
     "전산/Tip/Hazelcast를 활용한 distributed lock 공통모듈.md",
-    "전산/공부/Batch Sequential va. Pipe and Filter Flow.md",
     "생각/내셔널리즘.md",
-    "생각/망사용료.md",
-    "생각/효율제일주의.md",
-    "asset/k8s_job_status.drawio",
     "_config.yml",
     "Longform/퍼뜩",
     "Longform",
@@ -318,7 +340,6 @@
     "잡동사니",
     "asset/ROCKY영화포스터.webp.crdownload",
     "asset/예쁜 프롬프트.png.crdownload",
-    "asset/CosmosAPersonalVoyage_archive.torrent",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

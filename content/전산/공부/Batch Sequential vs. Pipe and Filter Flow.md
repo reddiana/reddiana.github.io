@@ -9,3 +9,4 @@ Batch Sequential을 쓸 수 밖에 없는 경우: 예를 들어 등수를 계산
 Pipe and Filter 적용 시, Event Driven 아키텍처를 구현하여 Scale In/Out하기 용이하다. 아래 아키텍처에서 Process들을 Scale In/Out 하여 부하에 대응할 수 있다.
 ![[Pipe-and-Filter-by-Event-Driven.svg]]
 위 다이어그램에서 Process가 Filter이고 Queue가 Pipe이다.
+참고: Process에서 처리하는 개개의 건들이 대용량이면 Event Driven 아키텍처에서는 [Claim-Check pattern](https://learn.microsoft.com/en-us/azure/architecture/patterns/claim-check?utm_source=copilot.com)을 고려해볼 수 있다.

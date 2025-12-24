@@ -34,7 +34,7 @@
             }
           },
           {
-            "id": "e0c79acc96bcef11",
+            "id": "65336ccd38afaaa4",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -270,7 +270,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e0c79acc96bcef11",
+  "active": "65336ccd38afaaa4",
   "lastOpenFiles": [
     "Dataview/최근 변경.md",
     "전산/공부/Batch Sequential vs. Pipe and Filter Flow.md",

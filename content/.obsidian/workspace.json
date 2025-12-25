@@ -34,14 +34,14 @@
             }
           },
           {
-            "id": "81cc9863509f3532",
+            "id": "908891fe5e0e1eec",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "전산/공부/Batch Sequential vs. Pipe and Filter Flow.md",
-                "mode": "source",
-                "source": true,
+                "mode": "preview",
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -271,10 +271,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "81cc9863509f3532",
+  "active": "908891fe5e0e1eec",
   "lastOpenFiles": [
     "Dataview/최근 변경.md",
     "전산/공부/Batch Sequential vs. Pipe and Filter Flow.md",
+    "전산/공부/Batch Sequentail vs. Pipe and Filter.svg",
     "전산/공부/Pipe-and-Filter-by-Event-Driven.svg",
     "전산/공부/Pub-Sub vs. Producer-Consumer.md",
     "전산/공부/Pub-Sub vs. Producer-Consumer.svg",
@@ -292,7 +293,6 @@
     "Longform/퍼뜩/인계철선.md",
     "Longform/퍼뜩/무임승차.md",
     "불굴.md",
-    "전산/공부/Batch Sequentail vs. Pipe and Filter.svg",
     "asset/Pasted image 20251224122533.png",
     "asset/Pasted image 20251224122347.png",
     "생각/언론.md",

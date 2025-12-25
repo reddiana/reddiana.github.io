@@ -40,8 +40,8 @@
               "type": "markdown",
               "state": {
                 "file": "전산/공부/Batch Sequential vs. Pipe and Filter Flow.md",
-                "mode": "preview",
-                "source": false,
+                "mode": "source",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,

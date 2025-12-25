@@ -15,7 +15,7 @@ permalink: 2025.0524.0214.00
 
 ![[Publisher-Subscriber vs. Producer-Consumer.svg]]
 - **Kafka Consumer Group**
-	- ==Consumer Group==들에게 워크로드 ==공유==
-	- Consumer Group 내부의 ==Consumer==들에게 워크로드 ==분배
+	- ==Consumer Group==들에게 워크로드 ==공유== (Pub-Sub)
+	- Consumer Group 내부의 ==Consumer==들에게 워크로드 ==분배== (Producer-Consumer)
 
 ![[Kafka Consumer Group.svg]]

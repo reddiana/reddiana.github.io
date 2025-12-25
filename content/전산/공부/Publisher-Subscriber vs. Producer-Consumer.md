@@ -1,8 +1,8 @@
 ---
 publish: true
 tags:
-date: 2025-12-25
-permalink: 2025.1225.0418.27
+date: 2025-05-24
+permalink: 2025.0524.0214.00
 ---
 - **Pub/Sub**
 	- 여러 Subscriber가 같은 메시지를 받음 
@@ -13,4 +13,4 @@ permalink: 2025.1225.0418.27
 	- 작업분산 (work distribution)
 	- 예: 주문 처리 시스템 → 주문들을 큐에 넣고, 서버들이 나눠서 처리.
 
-![[Pub-Sub vs. Producer-Consumer.svg]]
+![[Publisher-Subscriber vs. Producer-Consumer.svg]]

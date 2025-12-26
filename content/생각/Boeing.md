@@ -7,6 +7,8 @@ date: 2022-02-27
 ---
 [[Bean Counter|빈카운터]]가 망가뜨린 명가
 
+!["보잉은 끝났습니다" 미국 하늘을 지배할 새로운 기업은 '이곳'입니다](https://www.youtube.com/watch?v=0-AoNChy7W4)
+
 > [!Summery] [[포춘US]보잉의 장기 하강 < 국제일반 < Global < 기사본문 - 포춘코리아 디지털 뉴스 (fortunekorea.co.kr)](https://www.fortunekorea.co.kr/news/articleView.html?idxno=12203&fbclid=IwY2xjawFXQAVleHRuA2FlbQIxMAABHZL0Q0vypx08UGg5vdW3pif7m7fbcJjL3k1m5krRFn9zXnoC8GXuTB17Cg_aem_NK2GGNNIIRxD-b5tUjMALA)
 > 비용 절감의 부작용은 2003년 시작된 보잉의 787 드림라이너 프로그램 Dreamliner program에서 곧 불거졌다. 경영진은 납품업체에 핵심 부품 개발을 아웃소싱해 비용을 절감하도록 했다. 하지만 업체 중 상당수는 이런 일에 적합하지 못한 것으로 판명됐고, 결국 반복적인 고장과 지연으로 이어졌다. 2011년 마침내 제트기가 비행을 시작했다. 그러나 당초 계획보다 3년이 늦어졌고, 예산을 250억 달러나 초과했다. 2013년에는 787 두 대의 배터리에서 전기화재가 발생, 규제당국이 거의 한 달 동안 비행을 금지했다.
 > 

@@ -12,5 +12,5 @@ permalink: 2025.1012.1614.53
 - 위 다이어그램에서 Process가 Filter이고 Queue가 Pipe이다.
 - 참고: 
 	- [파이프 및 필터 패턴 - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/ko-kr/azure/architecture/patterns/pipes-and-filters)
-	- Process에서 처리하는 개개의 건(메시지)들이 대용량이면 [[Publisher-Subscriber vs. Producer-Consumer|Producer-Consumer]] 같은 Event Driven 아키텍처에서는 [Claim-Check pattern](https://learn.microsoft.com/ko-kr/azure/architecture/patterns/claim-check)을 고려해볼 수 있다.
+	- Process에서 처리하는 개개의 건(메시지)들이 대용량이면 Event Driven 아키텍처에서는 [Claim-Check pattern](https://learn.microsoft.com/ko-kr/azure/architecture/patterns/claim-check)을 고려해볼 수 있다.
 	- Unix의 pipe도 이 패턴을 말하는 것이다. [Pipes and Filters in Linux/Unix - GeeksforGeeks](https://www.geeksforgeeks.org/linux-unix/pipes-and-filters-in-linux-unix/)

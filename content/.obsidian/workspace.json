@@ -34,12 +34,12 @@
             }
           },
           {
-            "id": "8514e62655ea57f9",
+            "id": "a96b2755304701c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "전산/공부/Publisher-Subscriber vs. Producer-Consumer.md",
+                "file": "생각/토론.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -54,7 +54,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "Publisher-Subscriber vs. Producer-Consumer"
+              "title": "토론"
             }
           }
         ],
@@ -78,13 +78,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전산/공부/Publisher-Subscriber vs. Producer-Consumer.md",
+                "file": "생각/토론.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Publisher-Subscriber vs. Producer-Consumer 의 개요"
+              "title": "토론 의 개요"
             }
           },
           {
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전산/공부/Publisher-Subscriber vs. Producer-Consumer.md",
+                "file": "Dataview/최근 변경.md",
                 "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Publisher-Subscriber vs. Producer-Consumer 의 백링크"
+              "title": "최근 변경 의 백링크"
             }
           }
         ]
@@ -157,7 +157,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "장판",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -178,12 +178,12 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 282,
-    "collapsed": true
+    "width": 282
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -199,7 +199,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "전산/공부/Publisher-Subscriber vs. Producer-Consumer.md",
+                "file": "Dataview/최근 변경.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,7 +209,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Publisher-Subscriber vs. Producer-Consumer 의 백링크"
+              "title": "최근 변경 의 백링크"
             }
           },
           {
@@ -272,14 +272,20 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8514e62655ea57f9",
+  "active": "a96b2755304701c6",
   "lastOpenFiles": [
-    "전산/공부/Kafka Consumer Group.svg",
-    "전산/공부/Publisher-Subscriber vs. Producer-Consumer.md",
-    "전산/공부/Publisher-Subscriber vs. Producer-Consumer.svg",
+    "생각/궤변.md",
+    "생각/토론.md",
     "Dataview/최근 변경.md",
-    "잡동사니/호랑이.md",
+    "생각/Boeing.md",
+    "생각/리더십.md",
+    "생각/있어 보이는 말 하기.md",
     "전산/공부/Batch Sequential vs. Pipe and Filter.md",
+    "잡동사니/봉창.md",
+    "전산/공부/Publisher-Subscriber vs. Producer-Consumer.md",
+    "전산/공부/Kafka Consumer Group.svg",
+    "전산/공부/Publisher-Subscriber vs. Producer-Consumer.svg",
+    "잡동사니/호랑이.md",
     "전산/공부/Batch Sequentail vs. Pipe and Filter.svg",
     "전산/Tip/설정파일을 configmap으로.md",
     "생각/토너대가리.md",
@@ -295,18 +301,13 @@
     "책, 영상 Journal/Franz Kafka.md",
     "생각/근묵자흑.md",
     "생각/권력.md",
-    "생각/리더십.md",
     "전산/Test.md",
     "Longform/퍼뜩/인계철선.md",
     "Longform/퍼뜩/무임승차.md",
     "asset/Pasted image 20251224122533.png",
     "asset/Pasted image 20251224122347.png",
-    "생각/언론.md",
-    "생각/있어 보이는 말 하기.md",
     "asset/Pasted image 20251224143650.png",
-    "생각/일본.md",
     "asset/Pasted image 20251224095445.png",
-    "생각/권리장전.md",
     "asset/Pasted image 20250103125731.png",
     "asset/Pasted image 20250107025132.png",
     "asset/CosmosAPersonalVoyage_archive.torrent",

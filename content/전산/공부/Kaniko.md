@@ -1,6 +1,7 @@
 ---
 publish: true
-tags: 
+tags:
+  - K8s
 date: 2025-05-28
 permalink: 2025.0528.2131.49
 ---

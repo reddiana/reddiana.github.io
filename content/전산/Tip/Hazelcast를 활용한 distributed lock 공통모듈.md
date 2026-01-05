@@ -1,6 +1,7 @@
 ---
 publish: true
-tags: 
+tags:
+  - SpringBoot
 date: 2025-07-01
 permalink: 2025.0701.1816.22
 ---

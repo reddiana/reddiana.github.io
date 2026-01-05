@@ -2,7 +2,6 @@
 publish: true
 tags:
   - "#K8s"
-  - "#Kubernetes"
 date: 2025-02-05
 permalink: 2025.0205.2341.45
 ---

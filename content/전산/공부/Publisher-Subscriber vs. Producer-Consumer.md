@@ -1,6 +1,7 @@
 ---
 publish: true
 tags:
+  - 아키텍처
 date: 2025-05-24
 permalink: 2025.0524.0214.00
 ---

@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7ea3efcc98a3f8fa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
-          },
-          {
             "id": "bf03f797770b4e2a",
             "type": "leaf",
             "pinned": true,
@@ -44,9 +32,20 @@
               "icon": "lucide-file",
               "title": "최근 변경"
             }
+          },
+          {
+            "id": "7ea3efcc98a3f8fa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -145,7 +144,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#K8s",
+                "query": "tag:#윤석열일베이즘",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -166,11 +165,13 @@
               "title": "Longform"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 208
+    "width": 208,
+    "collapsed": true
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -228,6 +229,43 @@
             }
           },
           {
+            "id": "19e3d1950b614ac1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.463371968233527,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6413597422091043,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "최근 변경 그래프"
+            }
+          },
+          {
             "id": "de2c0b6afaa1114f",
             "type": "leaf",
             "state": {
@@ -238,7 +276,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -261,41 +299,42 @@
   },
   "active": "bf03f797770b4e2a",
   "lastOpenFiles": [
-    "전산/공부/Publisher-Subscriber vs. Producer-Consumer.md",
-    "전산/공부/Kafka Consumer Group.svg",
-    "Dataview/최근 변경.md",
-    "생각/파렴치.md",
-    "생각/대한민국 후진성.md",
-    "index.md",
-    "Longform/퍼뜩/약육강식은 파시즘의 기본 원리.md",
-    "전산/공부/Batch Sequential vs. Pipe and Filter.md",
-    "전산/공부/Kaniko.md",
-    "전산/공부/K8s Job 단계 판별.md",
-    "전산/공부/Batch Sequentail vs. Pipe and Filter.svg",
-    "전산/공부/파이썬 기초 5종 세트.md",
-    "전산/공부/유즈케이스.md",
+    "생각/문맹.md",
+    "자본주의.md",
+    "생각/낙수효과.md",
+    "생각/있어 보이는 말 하기.md",
+    "생각/겉멋.md",
+    "생각/불굴.md",
     "생각/하야부사.md",
-    "생각/인공지능.md",
-    "생각/道可道 非常道.md",
-    "전산/Tip/설정파일을 configmap으로.md",
-    "잡동사니/지구공학.md",
-    "생각/아무말.md",
+    "전산/공부/Batch Sequential vs. Pipe and Filter.md",
+    "전산/공부/Publisher-Subscriber vs. Producer-Consumer.md",
+    "전산/애자일.md",
+    "전산/Tip/Hazelcast를 활용한 distributed lock 공통모듈.md",
+    "전산/공부/유즈케이스.md",
+    "생각/팔란티어.md",
+    "생각/강자와 동일시.md",
+    "생각/Cargo Cult.md",
+    "생각/거짓말.md",
+    "인수테스트.md",
+    "생각/대놓고 거짓말.md",
+    "Dataview/최근 변경.md",
+    "생각/효율제일주의.md",
+    "생각/극우.md",
+    "파시즘.md",
+    "생각/경쟁 제일주의.md",
+    "생각/결과주의.md",
+    "생각/엘리트주의.md",
+    "생각/파렴치.md",
+    "asset/우리가 쿠팡이다.png",
+    "전산/공부/Kafka Consumer Group.svg",
+    "전산/공부/Batch Sequentail vs. Pipe and Filter.svg",
     "asset/조경태 해수부 부산이전 국민의힘이 함께 하겠습니다.png",
     "asset/Pasted image 20251226215115.png",
-    "생각/토론.md",
-    "생각/궤변.md",
-    "생각/Boeing.md",
-    "생각/리더십.md",
-    "생각/있어 보이는 말 하기.md",
-    "잡동사니/봉창.md",
     "전산/공부/Publisher-Subscriber vs. Producer-Consumer.svg",
-    "잡동사니/호랑이.md",
-    "생각/토너대가리.md",
     "전산/공부/Pipe-and-Filter-by-Event-Driven.svg",
     "asset/Pasted image 20251224122533.png",
     "asset/Pasted image 20251224122347.png",
     "asset/Pasted image 20251224143650.png",
-    "asset/Pasted image 20251224095445.png",
     "asset/CosmosAPersonalVoyage_archive.torrent",
     "asset/k8s_job_status.drawio",
     "_config.yml",

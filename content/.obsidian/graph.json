@@ -1,30 +1,30 @@
 {
   "collapse-filter": false,
   "search": "-tag:관리페이지 -path:template  -tag:#Jounal ",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": false,
+  "hideUnresolved": true,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "[\"publish\":true]",
+      "query": "path:전산 ",
       "color": {
         "a": 1,
-        "rgb": 14745855
+        "rgb": 14701138
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.32715581426831,
-  "lineSizeMultiplier": 2.13376201434953,
+  "textFadeMultiplier": -1.9,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.696629213483146,
-  "repelStrength": 12.6330039258156,
-  "linkStrength": 0.718288885880601,
+  "centerStrength": 0.499892680832797,
+  "repelStrength": 10.6868426701009,
+  "linkStrength": 0.548078986907062,
   "linkDistance": 30,
-  "scale": 0.6394876906396015,
-  "close": true
+  "scale": 0.6394876906395985,
+  "close": false
 }

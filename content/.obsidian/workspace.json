@@ -45,7 +45,8 @@
               "title": "그래프 뷰"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,7 +66,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "전산/Test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -75,7 +76,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "최근 변경 의 백링크"
+              "title": "Test 의 백링크"
             }
           },
           {
@@ -84,16 +85,53 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Dataview/최근 변경.md",
+                "file": "전산/Test.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "최근 변경 의 개요"
+              "title": "Test 의 개요"
+            }
+          },
+          {
+            "id": "f1c0f3751b0f69d1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6906394964510802,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       },
       {
         "id": "99d027a85074bb90",
@@ -144,7 +182,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#윤석열일베이즘",
+                "query": "tag:#hub",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -170,7 +208,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 208,
+    "width": 377.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -234,7 +272,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "Dataview/최근 변경.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -262,7 +299,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "최근 변경 그래프"
+              "title": "그래프 뷰"
             }
           },
           {
@@ -274,13 +311,36 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "cd9225e46577e466",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "전산/Test.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "f7d0d59cefde128a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {},
+              "icon": "lucide-info",
+              "title": "파일 속성"
+            }
           }
         ],
         "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 428
+    "width": 428,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -297,44 +357,45 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "bf03f797770b4e2a",
+  "active": "7ea3efcc98a3f8fa",
   "lastOpenFiles": [
-    "생각/문맹.md",
-    "자본주의.md",
-    "생각/낙수효과.md",
-    "생각/있어 보이는 말 하기.md",
-    "생각/겉멋.md",
-    "생각/불굴.md",
-    "생각/하야부사.md",
-    "전산/공부/Batch Sequential vs. Pipe and Filter.md",
-    "전산/공부/Publisher-Subscriber vs. Producer-Consumer.md",
-    "전산/애자일.md",
-    "전산/Tip/Hazelcast를 활용한 distributed lock 공통모듈.md",
-    "전산/공부/유즈케이스.md",
-    "생각/팔란티어.md",
-    "생각/강자와 동일시.md",
-    "생각/Cargo Cult.md",
-    "생각/거짓말.md",
-    "인수테스트.md",
-    "생각/대놓고 거짓말.md",
-    "Dataview/최근 변경.md",
-    "생각/효율제일주의.md",
-    "생각/극우.md",
-    "파시즘.md",
+    "생각/경쟁.md",
+    "생각/야만.md",
     "생각/경쟁 제일주의.md",
-    "생각/결과주의.md",
-    "생각/엘리트주의.md",
+    "asset/경쟁에서 뒤쳐지면 뒤지니깐.png",
+    "생각/대한민국 후진성.md",
+    "잡동사니/호랑이.md",
+    "생각/道.md",
+    "전산/Tip/알고 있었나요.md",
+    "전산.md",
+    "생각/윤석열이즘.md",
+    "생각/극우.md",
+    "Dataview/최근 변경.md",
+    "생각/종교.md",
+    "전산/Iterative 개발.md",
+    "생각/인공지능.md",
+    "생각/창의성.md",
+    "생각/기버링크.md",
+    "전산/Test.md",
+    "전산/테스트코드.md",
+    "전산/Testability.md",
+    "전산/공부/Publisher-Subscriber vs. Producer-Consumer.md",
+    "전산/공부/Publisher-Subscriber vs. Producer-Consumer.svg",
+    "전산/공부/Pipe-and-Filter-by-Event-Driven.svg",
+    "생각/대한민국 갈등의 원인.md",
+    "생각/거짓말.md",
     "생각/파렴치.md",
+    "생각/사회진화론.md",
+    "생각/파시즘.md",
+    "생각/기업권력.md",
+    "Dataview/무제.base",
     "asset/우리가 쿠팡이다.png",
     "전산/공부/Kafka Consumer Group.svg",
     "전산/공부/Batch Sequentail vs. Pipe and Filter.svg",
     "asset/조경태 해수부 부산이전 국민의힘이 함께 하겠습니다.png",
     "asset/Pasted image 20251226215115.png",
-    "전산/공부/Publisher-Subscriber vs. Producer-Consumer.svg",
-    "전산/공부/Pipe-and-Filter-by-Event-Driven.svg",
     "asset/Pasted image 20251224122533.png",
     "asset/Pasted image 20251224122347.png",
-    "asset/Pasted image 20251224143650.png",
     "asset/CosmosAPersonalVoyage_archive.torrent",
     "asset/k8s_job_status.drawio",
     "_config.yml",
@@ -344,7 +405,6 @@
     "asset/ASCII - March of Progress.txt",
     "잡동사니",
     "asset/ROCKY영화포스터.webp.crdownload",
-    "asset/예쁜 프롬프트.png.crdownload",
     "무제 파일.canvas",
     "무제 파일 1.canvas"
   ]

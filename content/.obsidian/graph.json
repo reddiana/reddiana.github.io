@@ -3,15 +3,29 @@
   "search": "-tag:관리페이지 -path:template  -tag:#Jounal ",
   "showTags": true,
   "showAttachments": false,
-  "hideUnresolved": true,
+  "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:전산 ",
+      "query": "[\"not-exists\":true]",
       "color": {
         "a": 1,
-        "rgb": 14701138
+        "rgb": 3014758
+      }
+    },
+    {
+      "query": "[\"publish\":true]",
+      "color": {
+        "a": 1,
+        "rgb": 2148555
+      }
+    },
+    {
+      "query": "[hub:true]",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
       }
     }
   ],
@@ -21,10 +35,10 @@
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
   "collapse-forces": false,
-  "centerStrength": 0.499892680832797,
-  "repelStrength": 10.6868426701009,
-  "linkStrength": 0.548078986907062,
+  "centerStrength": 0.568684267010088,
+  "repelStrength": 11.7857909422623,
+  "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 0.6394876906395985,
-  "close": false
+  "scale": 0.35873172612477794,
+  "close": true
 }

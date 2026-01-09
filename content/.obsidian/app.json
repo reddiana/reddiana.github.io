@@ -8,8 +8,8 @@
   "newFileLocation": "folder",
   "showUnsupportedFiles": true,
   "newFileFolderPath": "Draft",
-  "defaultViewMode": "preview",
+  "defaultViewMode": "source",
   "newLinkFormat": "shortest",
   "propertiesInDocument": "visible",
-  "focusNewTab": false
+  "focusNewTab": true
 }

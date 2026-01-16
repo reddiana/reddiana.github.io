@@ -4,49 +4,88 @@
     "type": "split",
     "children": [
       {
-        "id": "4feb7723b811ef3c",
-        "type": "tabs",
+        "id": "e510039608f1117f",
+        "type": "split",
         "children": [
           {
-            "id": "bf03f797770b4e2a",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Dataview/최근 변경.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
+            "id": "4feb7723b811ef3c",
+            "type": "tabs",
+            "dimension": 54.43089430894309,
+            "children": [
+              {
+                "id": "bf03f797770b4e2a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Dataview/최근 변경.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "최근 변경"
                 }
               },
-              "pinned": true,
-              "icon": "lucide-file",
-              "title": "최근 변경"
-            }
+              {
+                "id": "7ea3efcc98a3f8fa",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "pinned": true,
+                  "icon": "lucide-git-fork",
+                  "title": "그래프 뷰"
+                }
+              }
+            ],
+            "currentTab": 1
           },
           {
-            "id": "7ea3efcc98a3f8fa",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "graph",
-              "state": {},
-              "pinned": true,
-              "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
-            }
+            "id": "4826a1c8d1367ccf",
+            "type": "tabs",
+            "dimension": 45.56910569105691,
+            "children": [
+              {
+                "id": "0270741eb715982c",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "생각/클리엔테스.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": true,
+                    "backlinkOpts": {
+                      "collapseAll": false,
+                      "extraContext": false,
+                      "sortOrder": "alphabetical",
+                      "showSearch": false,
+                      "searchQuery": "",
+                      "backlinkCollapsed": false,
+                      "unlinkedCollapsed": true
+                    }
+                  },
+                  "icon": "lucide-file",
+                  "title": "클리엔테스"
+                }
+              }
+            ]
           }
         ],
-        "currentTab": 1
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -58,7 +97,7 @@
       {
         "id": "c49b403553ba9f7e",
         "type": "tabs",
-        "dimension": 32.83582089552239,
+        "dimension": 21.378165213781653,
         "children": [
           {
             "id": "73b7709bc0f00c7c",
@@ -85,13 +124,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "전산/Test.md",
+                "file": "생각/대한민국 후진성.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Test 의 개요"
+              "title": "대한민국 후진성 의 개요"
             }
           },
           {
@@ -100,6 +139,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "생각/클리엔테스.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -110,24 +150,24 @@
                   "showTags": true,
                   "showAttachments": false,
                   "hideUnresolved": false,
-                  "collapse-color-groups": true,
+                  "collapse-color-groups": false,
                   "colorGroups": [],
                   "collapse-display": false,
                   "showArrow": false,
-                  "textFadeMultiplier": 0,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
-                  "collapse-forces": true,
-                  "centerStrength": 0.518713248970312,
-                  "repelStrength": 10,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.671088216355441,
+                  "lineSizeMultiplier": 2.38750804893754,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 0,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.6906394964510802,
+                  "linkDistance": 30,
+                  "scale": 0.7378800267936643,
                   "close": true
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "클리엔테스 그래프"
             }
           }
         ],
@@ -136,7 +176,7 @@
       {
         "id": "99d027a85074bb90",
         "type": "tabs",
-        "dimension": 67.16417910447761,
+        "dimension": 78.62183478621834,
         "children": [
           {
             "id": "847f9bd18de11b3a",
@@ -182,7 +222,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#hub",
+                "query": "푸념",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -203,13 +243,11 @@
               "title": "Longform"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 377.5110321044922,
-    "collapsed": true
+    "width": 242.0124969482422
   },
   "right": {
     "id": "f7267a5ae3a07a77",
@@ -272,6 +310,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "Dataview/최근 변경.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -299,7 +338,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "그래프 뷰"
+              "title": "최근 변경 그래프"
             }
           },
           {
@@ -329,9 +368,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Dataview/최근 변경.md"
+              },
               "icon": "lucide-info",
-              "title": "파일 속성"
+              "title": "최근 변경 의 파일 속성"
             }
           }
         ],
@@ -356,45 +397,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "7ea3efcc98a3f8fa",
+  "active": "847f9bd18de11b3a",
   "lastOpenFiles": [
-    "사실적시명예회손.md",
-    "마이크로매니지먼트.md",
-    "생각/Bean Counter.md",
-    "인사.md",
-    "책, 영상 Journal/아웃라이어 - 말콤 드래드웰.md",
-    "생각/규제.md",
-    "생각/느낌.md",
-    "Longform/퍼뜩/뉴라이트.md",
-    "Longform/퍼뜩/무임승차.md",
-    "Longform/퍼뜩/약자를 배려한다는 말은 잘못됐다.md",
-    "마르크스.md",
-    "생각/인류에 큰 영향을 미친 인물.md",
-    "생각/생명.md",
-    "평등.md",
-    "생각/사법부.md",
-    "삼권분립.md",
-    "생각/망사용료.md",
-    "일론머스크.md",
-    "사양서.md",
-    "생각/경쟁.md",
-    "생각/야만.md",
-    "생각/경쟁 제일주의.md",
-    "asset/경쟁에서 뒤쳐지면 뒤지니깐.png",
+    "생각/인공지능 측정.md",
+    "asset/red eye.png",
+    "생각/클리엔테스.md",
+    "전산/오픈소스.md",
+    "Dataview/최근 변경.md",
+    "책, 영상 Journal/수리생물학.md",
+    "생각/법률.md",
+    "생각/팔란티어.md",
+    "생각/인공지능.md",
     "생각/대한민국 후진성.md",
-    "잡동사니/호랑이.md",
-    "생각/道.md",
-    "전산/Tip/알고 있었나요.md",
+    "생각/엘리트주의.md",
+    "생각/악덕 방산기업.md",
+    "생각/경쟁제일주의.md",
+    "생각/관리.md",
+    "생각/윤석열이즘.md",
+    "Dataview/무제.base",
+    "생각/대한민국 수구.md",
+    "잡동사니/지구공학.md",
+    "생각/스몰토크.md",
+    "생각/화분.md",
+    "생각/하야부사.md",
+    "생각/불굴.md",
+    "생각/느낌.md",
+    "생각/가치.md",
+    "생각/동물.md",
+    "생각/감사.md",
+    "생각/혼네.md",
+    "asset/Pasted image 20260109061135.png",
+    "asset/청년층 순유출율과 전국 합계출산율.png",
+    "asset/노인과 약자는 국가의 발가락.png",
+    "asset/경쟁에서 뒤쳐지면 뒤지니깐.png",
     "전산/공부/Publisher-Subscriber vs. Producer-Consumer.svg",
     "전산/공부/Pipe-and-Filter-by-Event-Driven.svg",
-    "Dataview/무제.base",
     "asset/우리가 쿠팡이다.png",
     "전산/공부/Kafka Consumer Group.svg",
     "전산/공부/Batch Sequentail vs. Pipe and Filter.svg",
-    "asset/조경태 해수부 부산이전 국민의힘이 함께 하겠습니다.png",
-    "asset/Pasted image 20251226215115.png",
-    "asset/Pasted image 20251224122533.png",
-    "asset/Pasted image 20251224122347.png",
     "asset/CosmosAPersonalVoyage_archive.torrent",
     "asset/k8s_job_status.drawio",
     "_config.yml",

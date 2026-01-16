@@ -1,6 +1,6 @@
 {
   "collapse-filter": false,
-  "search": "-tag:관리페이지 -path:template  -tag:#Jounal ",
+  "search": "-tag:#Jounal -tag:관리페이지 -path:template -path:Longform",
   "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
@@ -31,14 +31,14 @@
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.9,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "textFadeMultiplier": -3,
+  "nodeSizeMultiplier": 0.732614294913071,
+  "lineSizeMultiplier": 0.631648422408242,
   "collapse-forces": false,
-  "centerStrength": 0.568684267010088,
-  "repelStrength": 11.7857909422623,
+  "centerStrength": 0.59605065464692,
+  "repelStrength": 11.2363168061816,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.0094217353344015,
+  "scale": 0.7554747830977678,
   "close": true
 }

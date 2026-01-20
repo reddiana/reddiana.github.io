@@ -75,7 +75,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "생각/부작용.md",
+                "file": "생각/커뮤니케이션.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -90,7 +90,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "부작용"
+              "title": "커뮤니케이션"
             }
           }
         ],
@@ -148,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "생각/부작용.md",
+                "file": "생각/커뮤니케이션.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -176,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "부작용 그래프"
+              "title": "커뮤니케이션 그래프"
             }
           }
         ],
@@ -389,7 +389,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 347
+    "width": 347,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -408,8 +409,9 @@
   },
   "active": "6bc86a90f37d9ff6",
   "lastOpenFiles": [
-    "생각/스몰토크.md",
+    "생각/인공지능.md",
     "생각/부작용.md",
+    "생각/스몰토크.md",
     "생각/화분.md",
     "잡동사니/뭐라도해봐.md",
     "생각/생산성.md",
@@ -427,7 +429,6 @@
     "책, 영상 Journal/수리생물학.md",
     "생각/법률.md",
     "생각/팔란티어.md",
-    "생각/인공지능.md",
     "생각/엘리트주의.md",
     "생각/악덕 방산기업.md",
     "생각/경쟁제일주의.md",

@@ -4,88 +4,97 @@
     "type": "split",
     "children": [
       {
-        "id": "e510039608f1117f",
-        "type": "split",
+        "id": "4feb7723b811ef3c",
+        "type": "tabs",
         "children": [
           {
-            "id": "4feb7723b811ef3c",
-            "type": "tabs",
-            "dimension": 54.43089430894309,
-            "children": [
-              {
-                "id": "bf03f797770b4e2a",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Dataview/최근 변경.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "최근 변경"
+            "id": "bf03f797770b4e2a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
               },
-              {
-                "id": "7ea3efcc98a3f8fa",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "graph",
-                  "state": {},
-                  "pinned": true,
-                  "icon": "lucide-git-fork",
-                  "title": "그래프 뷰"
-                }
-              }
-            ],
-            "currentTab": 1
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "최근 변경"
+            }
           },
           {
-            "id": "4826a1c8d1367ccf",
-            "type": "tabs",
-            "dimension": 45.56910569105691,
-            "children": [
-              {
-                "id": "0270741eb715982c",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "생각/클리엔테스.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": true,
-                    "backlinkOpts": {
-                      "collapseAll": false,
-                      "extraContext": false,
-                      "sortOrder": "alphabetical",
-                      "showSearch": false,
-                      "searchQuery": "",
-                      "backlinkCollapsed": false,
-                      "unlinkedCollapsed": true
-                    }
-                  },
-                  "icon": "lucide-file",
-                  "title": "클리엔테스"
+            "id": "7ea3efcc98a3f8fa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "58079f69c93f47df",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "생각/스몰토크.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
                 }
-              }
-            ]
+              },
+              "icon": "lucide-file",
+              "title": "스몰토크"
+            }
+          },
+          {
+            "id": "6bc86a90f37d9ff6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "생각/부작용.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "부작용"
+            }
           }
         ],
-        "direction": "horizontal"
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +148,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "생각/클리엔테스.md",
+                "file": "생각/부작용.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -167,7 +176,7 @@
                 }
               },
               "icon": "lucide-git-fork",
-              "title": "클리엔테스 그래프"
+              "title": "부작용 그래프"
             }
           }
         ],
@@ -222,7 +231,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "푸념",
+                "query": "quote",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -380,7 +389,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 255
+    "width": 347
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -397,18 +406,28 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "847f9bd18de11b3a",
+  "active": "6bc86a90f37d9ff6",
   "lastOpenFiles": [
+    "생각/스몰토크.md",
+    "생각/부작용.md",
+    "생각/화분.md",
+    "잡동사니/뭐라도해봐.md",
+    "생각/생산성.md",
+    "생각/정치.md",
+    "asset/합정역 입구 독수리 사진.png",
+    "전산/Tip/Git.md",
+    "생각/대한민국 후진성.md",
+    "생각/사회진화론.md",
+    "Dataview/최근 변경.md",
+    "생각/가족제도.md",
+    "생각/클리엔테스.md",
     "생각/인공지능 측정.md",
     "asset/red eye.png",
-    "생각/클리엔테스.md",
     "전산/오픈소스.md",
-    "Dataview/최근 변경.md",
     "책, 영상 Journal/수리생물학.md",
     "생각/법률.md",
     "생각/팔란티어.md",
     "생각/인공지능.md",
-    "생각/대한민국 후진성.md",
     "생각/엘리트주의.md",
     "생각/악덕 방산기업.md",
     "생각/경쟁제일주의.md",
@@ -417,15 +436,7 @@
     "Dataview/무제.base",
     "생각/대한민국 수구.md",
     "잡동사니/지구공학.md",
-    "생각/스몰토크.md",
-    "생각/화분.md",
     "생각/하야부사.md",
-    "생각/불굴.md",
-    "생각/느낌.md",
-    "생각/가치.md",
-    "생각/동물.md",
-    "생각/감사.md",
-    "생각/혼네.md",
     "asset/Pasted image 20260109061135.png",
     "asset/청년층 순유출율과 전국 합계출산율.png",
     "asset/노인과 약자는 국가의 발가락.png",
@@ -434,7 +445,6 @@
     "전산/공부/Pipe-and-Filter-by-Event-Driven.svg",
     "asset/우리가 쿠팡이다.png",
     "전산/공부/Kafka Consumer Group.svg",
-    "전산/공부/Batch Sequentail vs. Pipe and Filter.svg",
     "asset/CosmosAPersonalVoyage_archive.torrent",
     "asset/k8s_job_status.drawio",
     "_config.yml",

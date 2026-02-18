@@ -1,0 +1,437 @@
+{
+  "main": {
+    "id": "66d987b1d8e83114",
+    "type": "split",
+    "children": [
+      {
+        "id": "4feb7723b811ef3c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bf03f797770b4e2a",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "최근 변경"
+            }
+          },
+          {
+            "id": "7ea3efcc98a3f8fa",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "graph",
+              "state": {},
+              "pinned": true,
+              "icon": "lucide-git-fork",
+              "title": "그래프 뷰"
+            }
+          },
+          {
+            "id": "bee84ebb49600c3f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "생각/인공지능.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "인공지능"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "495c3da03217f18d",
+    "type": "split",
+    "children": [
+      {
+        "id": "c49b403553ba9f7e",
+        "type": "tabs",
+        "dimension": 21.378165213781653,
+        "children": [
+          {
+            "id": "73b7709bc0f00c7c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "전산/Test.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Test 의 백링크"
+            }
+          },
+          {
+            "id": "408d63b78437f877",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "생각/대한민국 후진성.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "대한민국 후진성 의 개요"
+            }
+          },
+          {
+            "id": "f1c0f3751b0f69d1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.671088216355441,
+                  "lineSizeMultiplier": 2.38750804893754,
+                  "collapse-forces": false,
+                  "centerStrength": 1,
+                  "repelStrength": 0,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.7378800267936643,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "최근 변경 그래프"
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "99d027a85074bb90",
+        "type": "tabs",
+        "dimension": 78.62183478621834,
+        "children": [
+          {
+            "id": "847f9bd18de11b3a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": true
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "5e84c9afa73ef8e9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          },
+          {
+            "id": "6bfc89e8f7393831",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "001a50d4b1f36d0f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "quote",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "533f700b6fa4e787",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.0124969482422,
+    "collapsed": true
+  },
+  "right": {
+    "id": "f7267a5ae3a07a77",
+    "type": "split",
+    "children": [
+      {
+        "id": "75ad0989890011b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ee735953dd15e25",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "최근 변경 의 백링크"
+            }
+          },
+          {
+            "id": "45405bc4387377ee",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "최근 변경 의 나가는 링크"
+            }
+          },
+          {
+            "id": "2d0285c9e9c68ab2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "19e3d1950b614ac1",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "Dataview/최근 변경.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": false,
+                  "showTags": true,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 0.463371968233527,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.6413597422091043,
+                  "close": true
+                }
+              },
+              "icon": "lucide-git-fork",
+              "title": "최근 변경 그래프"
+            }
+          },
+          {
+            "id": "de2c0b6afaa1114f",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "cd9225e46577e466",
+            "type": "leaf",
+            "state": {
+              "type": "footnotes",
+              "state": {
+                "file": "전산/Test.md"
+              },
+              "icon": "lucide-file-signature",
+              "title": "Footnotes"
+            }
+          },
+          {
+            "id": "f7d0d59cefde128a",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Dataview/최근 변경.md"
+              },
+              "icon": "lucide-info",
+              "title": "최근 변경 의 파일 속성"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 347
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:새 베이스 생성하기": false,
+      "switcher:빠른 전환기 열기": false,
+      "daily-notes:오늘의 일일 노트 열기": true,
+      "random-note:무작위 노트 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": true,
+      "templates:템플릿 삽입": true,
+      "command-palette:명령어 팔레트 열기": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": true,
+      "templater-obsidian:Templater": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "bf03f797770b4e2a",
+  "lastOpenFiles": [
+    "생각/인공지능.md",
+    "잡동사니/뭐라도해봐.md",
+    "Dataview/최근 변경.md",
+    "생각/단상.md",
+    "생각/팔란티어.md",
+    "생각/인공지능 측정.md",
+    "생각/근묵자흑.md",
+    "asset/팔란티어 - Omniscient View.png",
+    "생각/언론.md",
+    "생각/스몰토크.md",
+    "생각/커뮤니케이션.md",
+    "생각/부작용.md",
+    "생각/화분.md",
+    "생각/생산성.md",
+    "생각/정치.md",
+    "asset/합정역 입구 독수리 사진.png",
+    "전산/Tip/Git.md",
+    "생각/대한민국 후진성.md",
+    "생각/사회진화론.md",
+    "생각/가족제도.md",
+    "생각/클리엔테스.md",
+    "asset/red eye.png",
+    "전산/오픈소스.md",
+    "책, 영상 Journal/수리생물학.md",
+    "생각/법률.md",
+    "생각/엘리트주의.md",
+    "생각/악덕 방산기업.md",
+    "생각/경쟁제일주의.md",
+    "생각/관리.md",
+    "Dataview/무제.base",
+    "asset/Pasted image 20260109061135.png",
+    "asset/청년층 순유출율과 전국 합계출산율.png",
+    "asset/노인과 약자는 국가의 발가락.png",
+    "asset/경쟁에서 뒤쳐지면 뒤지니깐.png",
+    "전산/공부/Publisher-Subscriber vs. Producer-Consumer.svg",
+    "전산/공부/Pipe-and-Filter-by-Event-Driven.svg",
+    "asset/우리가 쿠팡이다.png",
+    "asset/CosmosAPersonalVoyage_archive.torrent",
+    "asset/k8s_job_status.drawio",
+    "_config.yml",
+    "Longform/퍼뜩",
+    "Longform",
+    "asset/ASCII - Good Luck.txt",
+    "asset/ASCII - March of Progress.txt",
+    "잡동사니",
+    "asset/ROCKY영화포스터.webp.crdownload",
+    "무제 파일.canvas",
+    "무제 파일 1.canvas"
+  ]
+}

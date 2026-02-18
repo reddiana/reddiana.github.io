@@ -1,3 +1,3 @@
 exclude:
-  - content/templates/
+  - reddiana-blog/templates/
   - docs/

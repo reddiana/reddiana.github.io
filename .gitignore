@@ -1,14 +1,13 @@
 .DS_Store
 node_modules/
-#docs/
+docs/
 public/
 prof
 tsconfig.tsbuildinfo
-#.obsidian
+.obsidian
 .quartz-cache
 private/
 .replit
 replit.nix
 *.bak
 *.bkp
-content/.obsidian/

@@ -15,3 +15,4 @@ permalink: 2025.1012.1614.53
 	- [파이프 및 필터 패턴 - Azure Architecture Center | Microsoft Learn](https://learn.microsoft.com/ko-kr/azure/architecture/patterns/pipes-and-filters)
 	- Process에서 처리하는 개개의 건(메시지)들이 대용량이면 Event Driven 아키텍처에서는 [Claim-Check pattern](https://learn.microsoft.com/ko-kr/azure/architecture/patterns/claim-check)을 고려해볼 수 있다.
 	- Unix의 pipe가 Pipe and Filter 패턴의 시조인 듯 [Pipes and Filters in Linux/Unix - GeeksforGeeks](https://www.geeksforgeeks.org/linux-unix/pipes-and-filters-in-linux-unix/)
+	- [Batch Sequential va. Pipe and Filter Flow](https://www.perplexity.ai/search/batch-sequential-va-pipe-and-f-QH1UjTtzRwOpnm7g.YR91A#0)

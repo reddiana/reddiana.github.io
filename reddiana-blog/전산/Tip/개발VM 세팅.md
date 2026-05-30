@@ -24,6 +24,9 @@ sudo apt install fzf
 # Starship 셸 프롬프트 커스텀
 curl -sS https://starship.rs/install.sh | sh
 
+# cat 명령어 유사 예쁘게 출력
+sudo apt install bat
+
 # Nerd Font
 mkdir -p ~/.local/share/fonts
 cd ~/.local/share/fonts
@@ -47,6 +50,9 @@ alias dc='docker compose'
 alias h='history'
 
 alias ls='eza'
+alias lt='eza --tree'
+alias llt='ll --tree'
+
 alias bat='batcat'
 alias b='batcat'
 alias c='batcat'

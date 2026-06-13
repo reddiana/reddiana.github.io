@@ -11,5 +11,10 @@ views:
       - subtitle
       - file.ctime
     sort:
+      - property: publish
+        direction: DESC
       - property: file.mtime
         direction: DESC
+    columnSize:
+      file.mtime: 189
+      note.permalink: 134

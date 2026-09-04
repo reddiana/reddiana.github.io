@@ -19,6 +19,11 @@ git config credential.helper store
 git config log.follow true
 ```
     
+### status 한글파일명 유니코드로 나올 때
+```sh
+git config --global core.quotepath false
+```
+
 ### 구찮지    
 ```bash
 git config --global user.email "everlearningemployee@gmail.com"

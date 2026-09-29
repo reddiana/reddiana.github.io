@@ -15,6 +15,7 @@ configuration:
     - Longform
     - Dataview
     - Excalidraw
+    - "*.base"
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

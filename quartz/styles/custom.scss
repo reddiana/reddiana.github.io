@@ -1,3 +1,18 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+
+// 사이트 제목 왼쪽에 아이콘 표시 (v4에서 PageTitle.tsx를 직접 수정하던 것을 대체)
+.page-title {
+  display: flex;
+  align-items: center;
+
+  &::before {
+    content: "";
+    flex-shrink: 0;
+    width: 2.5rem;
+    height: 2.5rem;
+    margin-right: 0.5rem;
+    background: url("/static/icon.png") center / contain no-repeat;
+  }
+}

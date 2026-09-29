@@ -6,13 +6,23 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
   const baseDir = ctx.argv.serve ? "/" : url.pathname
 
   return (
-    <article class="popover-hint">
-      <h1>404</h1>
-      <p>{i18n(cfg.locale).pages.error.notFound}</p>
-      <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
-      <script
-        dangerouslySetInnerHTML={{
-          __html: `
+    <div
+      style={{
+        backgroundImage: 'url("/static/404_full_moon.jpg")',
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundRepeat: "no-repeat",
+        height: "60vw",
+        width: "100%",
+      }}
+    >
+      <article class="popover-hint">
+        <h1>404</h1>
+        <p>{i18n(cfg.locale).pages.error.notFound}</p>
+        <a href={baseDir}>{i18n(cfg.locale).pages.error.home}</a>
+        <script
+          dangerouslySetInnerHTML={{
+            __html: `
           if (typeof fetchData !== "undefined") {
             fetchData.then(function(index) {
               var basePath = document.body.dataset.basepath || "";
@@ -45,9 +55,10 @@ const NotFound: QuartzComponent = ({ cfg, ctx }: QuartzComponentProps) => {
             });
           }
           `,
-        }}
-      />
-    </article>
+          }}
+        />
+      </article>
+    </div>
   )
 }
 

@@ -11,9 +11,9 @@ views:
       - subtitle
       - file.ctime
     sort:
-      - property: publish
-        direction: DESC
       - property: file.mtime
+        direction: DESC
+      - property: publish
         direction: DESC
     columnSize:
       file.mtime: 189

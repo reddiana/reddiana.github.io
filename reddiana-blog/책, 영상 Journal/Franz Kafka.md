@@ -22,4 +22,4 @@ date: 2024-11-24
 
 어떤 문학작품을 수식하는 형용사로 "감동적인", "아름다운", "성찰하게 하는" 등이 있겠지만 카프카의 작품에 어울로는 형용사는 "공감가는" 일지도 모르겠다. "그 느낌 나도 알어" 같은 것 말이다.
 
-![Franz_Kafka,_1923.jpg (1992×2656)](https://upload.wikimedia.org/wikipedia/commons/2/26/Franz_Kafka%2C_1923.jpg)
+![Franz_Kafka,_1923.jpg (1992×2656)|363](https://upload.wikimedia.org/wikipedia/commons/2/26/Franz_Kafka%2C_1923.jpg)

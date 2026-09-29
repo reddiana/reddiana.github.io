@@ -3909,3 +3909,18 @@ settings:
   ,
   10 ;
 }
+
+/* Custom: Transparent SVG background wrapper in Dark Mode */
+.theme-dark .internal-embed[src*=".svg"],
+.theme-dark .internal-embed[src*="svg"],
+.theme-dark .image-embed[src*=".svg"],
+.theme-dark img[src*=".svg"],
+.theme-dark img[src*="svg"],
+.theme-dark .internal-embed img,
+.theme-dark .image-embed img {
+    background-color: #ffffff !important;
+/*    
+    padding: 10px;
+    border-radius: 6px;
+*/    
+}
